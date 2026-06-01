@@ -91,6 +91,11 @@
           <div class="footer__legal">${legalHtml}</div>
           <p class="footer__copy">&copy; ${year} Marblehead Maids. All rights reserved.</p>
         </div>
+        <div class="footer__credit">
+          <a href="https://www.bostonsilvadigital.com/en/" target="_blank" rel="noopener noreferrer" title="Professional and Smart Web Design" class="footer__credit-link">
+            Boston Silva Digital
+          </a>
+        </div>
       </div>
     `;
   }

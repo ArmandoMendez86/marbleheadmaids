@@ -2158,6 +2158,24 @@ button {
   max-width: 100%;
 }
 
+.footer__credit {
+  margin-top: 1rem;
+  text-align: center;
+}
+
+.footer__credit-link {
+  display: inline-block;
+  color: var(--primary);
+  font-size: 0.875rem;
+  font-weight: 600;
+  letter-spacing: 0.01em;
+  transition: color 0.2s;
+}
+
+.footer__credit-link:hover {
+  color: #f7f7f7;
+}
+
 /* INTERNAL PAGES */
 .page-hero {
   background: var(--section-1);
