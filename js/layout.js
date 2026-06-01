@@ -22,7 +22,7 @@
     if (!footer || !window.SITE_DATA) return;
 
     const base = getBasePath();
-    const { services, footer: footerData } = window.SITE_DATA;
+    const { services, footerLocations, footer: footerData } = window.SITE_DATA;
     const year = new Date().getFullYear();
 
     const socialHtml = footerData.social.map(({ label, href, icon }) => `
@@ -32,6 +32,10 @@
     `).join('');
 
     const servicesHtml = services.map(({ label, href }) => `
+      <li><a href="${resolveHref(href)}">${label}</a></li>
+    `).join('');
+
+    const locationsHtml = (footerLocations || []).map(({ label, href }) => `
       <li><a href="${resolveHref(href)}">${label}</a></li>
     `).join('');
 
@@ -53,6 +57,10 @@
           <div class="footer__col">
             <h3 class="footer__heading">Services</h3>
             <ul class="footer__links">${servicesHtml}</ul>
+          </div>
+          <div class="footer__col">
+            <h3 class="footer__heading">Locations</h3>
+            <ul class="footer__links">${locationsHtml}</ul>
           </div>
           <div class="footer__col">
             <h3 class="footer__heading">Contact</h3>

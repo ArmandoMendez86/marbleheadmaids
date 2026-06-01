@@ -1980,7 +1980,7 @@ button {
 
 @media (min-width: 1024px) {
   .footer__grid {
-    grid-template-columns: 1.2fr 1fr 1.3fr;
+    grid-template-columns: 1.2fr 1fr 1fr 1.3fr;
     gap: 3rem;
   }
 }
