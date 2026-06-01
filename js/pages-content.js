@@ -79,7 +79,7 @@ window.PAGES_CONTENT = {
   contact: {
     cards: [
       { title: "Call or Text", lines: ["(617) 686-6805", "Available Monday–Saturday, 8 AM – 6 PM"], href: "tel:+16176866805" },
-      { title: "Email", lines: ["support@marbleheadmaids.com", "We respond to most emails within a few hours during business hours"], href: "mailto:support@marbleheadmaids.com" },
+      { title: "Email", lines: ["hello@marbleheadmaids.com", "We respond to most emails within a few hours during business hours"], href: "mailto:hello@marbleheadmaids.com" },
       { title: "Hours", lines: ["Monday – Friday: 8am – 6pm", "Saturday: 9am – 4pm", "Sunday: Closed"] },
       { title: "Service Area", lines: ["the North Shore, North Suburbs & greater Essex County"] }
     ],
@@ -155,7 +155,7 @@ window.PAGES_CONTENT = {
     ],
     cta: {
       title: "Questions About Our Privacy Policy?",
-      description: "Contact us at support@marbleheadmaids.com if you have any questions about how we handle your information."
+      description: "Contact us at hello@marbleheadmaids.com if you have any questions about how we handle your information."
     }
   },
   terms: {

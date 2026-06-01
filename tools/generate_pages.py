@@ -483,7 +483,7 @@ PAGES = {
         "h1": "Privacy Policy",
         "hero_subtitle": "How we handle your information, mobile contact data, and the cookies we use on our site.",
         "cta_title": "Questions About Our Privacy Policy?",
-        "cta_text": "Contact us at support@marbleheadmaids.com if you have any questions about how we handle your information.",
+        "cta_text": "Contact us at hello@marbleheadmaids.com if you have any questions about how we handle your information.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "terms.html": {

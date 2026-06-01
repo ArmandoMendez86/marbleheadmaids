@@ -287,7 +287,7 @@ window.SITE_DATA = {
       h1: "Get a Free Cleaning Quote",
       heroSubtitle: "Ready to get your home, apartment, or office cleaned? Fill out the quick form below, give us a call, or shoot us a message. Most quotes come back within a few hours.",
       sections: [
-        { heading: "Other Ways to Reach Us", text: "Call or Text: (617) 686-6805 — Available Monday–Saturday, 8 AM – 6 PM. Email: support@marbleheadmaids.com. Hours: Monday–Friday 8am–6pm, Saturday 9am–4pm, Sunday Closed. Service Area: the North Shore, North Suburbs & greater Essex County." },
+        { heading: "Other Ways to Reach Us", text: "Call or Text: (617) 686-6805 — Available Monday–Saturday, 8 AM – 6 PM. Email: hello@marbleheadmaids.com. Hours: Monday–Friday 8am–6pm, Saturday 9am–4pm, Sunday Closed. Service Area: the North Shore, North Suburbs & greater Essex County." },
         { heading: "Frequently Asked Questions Before Booking", text: "How quickly can you get me on the schedule? For most residential cleans, we can get you booked within a few days. How much does cleaning cost? Your quote depends on size, service type, frequency, and current condition — always a flat rate. Is there a contract? No — all residential plans are month-to-month." }
       ]
     },
