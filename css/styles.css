@@ -1,4 +1,4 @@
-/* Madtown Maids - Clone Styles */
+/* Marble Head Maids - Clone Styles */
 :root {
   --primary: #ffc52f;
   --dark: #12284b;
@@ -189,6 +189,14 @@ button {
   font-size: 0.9375rem;
   font-weight: 500;
   transition: color 0.2s, background 0.2s;
+}
+
+.nav__dropdown-menu .nav__dropdown-label {
+  display: block;
+  padding: 0.625rem 1rem;
+  color: var(--slate);
+  font-size: 0.9375rem;
+  font-weight: 500;
 }
 
 .nav__dropdown-menu a:hover {
@@ -438,6 +446,14 @@ button {
 
 .mobile-panel__submenu a:hover {
   color: var(--dark);
+}
+
+.mobile-panel__submenu .mobile-panel__sublabel {
+  display: block;
+  padding: 0.75rem 2rem;
+  font-size: 0.9375rem;
+  font-weight: 500;
+  color: var(--slate);
 }
 
 .mobile-panel__actions {

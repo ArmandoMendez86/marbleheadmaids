@@ -1,12 +1,12 @@
 window.PAGES_CONTENT = {
   about: {
     intro: {
-      heading: "Why We Started Madtown Maids",
+      heading: "Why We Started Marble Head Maids",
       paragraphs: [
         "You're about to hand someone the keys to your home. You want to know who they are.",
-        "Madtown Maids is a locally owned and operated cleaning company based in Madison, Wisconsin. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name.",
-        "We started Madtown Maids because we noticed something missing in the Madison cleaning market. National franchises offered brand recognition but impersonal service. Independent cleaners offered personal touch but inconsistent availability. Gig platforms offered convenience but zero accountability.",
-        "We wanted to be the company that combined all three — professional reliability, personal attention, and the kind of accountability that comes from being part of the community you serve. Madison is our home. The people we clean for are our neighbors."
+        "Marble Head Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name.",
+        "We started Marble Head Maids because we noticed something missing in the North Shore cleaning market. National franchises offered brand recognition but impersonal service. Independent cleaners offered personal touch but inconsistent availability. Gig platforms offered convenience but zero accountability.",
+        "We wanted to be the company that combined all three — professional reliability, personal attention, and the kind of accountability that comes from being part of the community you serve. North Shore is our home. The people we clean for are our neighbors."
       ]
     },
     stats: [
@@ -53,7 +53,7 @@ window.PAGES_CONTENT = {
     local: {
       heading: "Locally Owned, Community Connected",
       paragraphs: [
-        "We live in Madison. We shop here, eat here, raise our families here. We serve homes and businesses across Madison and Dane County — from the Isthmus to the suburbs."
+        "We live on the North Shore. We shop here, eat here, raise our families here. We serve homes and businesses across the North Shore and North Suburbs — from Marblehead to the North Suburbs."
       ]
     },
     cta: {
@@ -78,10 +78,10 @@ window.PAGES_CONTENT = {
   },
   contact: {
     cards: [
-      { title: "Call or Text", lines: ["(608) 571-3484", "Available Monday–Saturday, 8 AM – 6 PM"], href: "tel:+16085713484" },
-      { title: "Email", lines: ["support@madtownmaids.com", "We respond to most emails within a few hours during business hours"], href: "mailto:support@madtownmaids.com" },
+      { title: "Call or Text", lines: ["(617) 686-6805", "Available Monday–Saturday, 8 AM – 6 PM"], href: "tel:+16176866805" },
+      { title: "Email", lines: ["support@marbleheadmaids.com", "We respond to most emails within a few hours during business hours"], href: "mailto:support@marbleheadmaids.com" },
       { title: "Hours", lines: ["Monday – Friday: 8am – 6pm", "Saturday: 9am – 4pm", "Sunday: Closed"] },
-      { title: "Service Area", lines: ["Madison, WI & all of Dane County"] }
+      { title: "Service Area", lines: ["the North Shore, North Suburbs & greater Essex County"] }
     ],
     formHeading: "Quick Quote Form",
     faqHeading: "Frequently Asked Questions Before Booking",
@@ -100,7 +100,7 @@ window.PAGES_CONTENT = {
       },
       {
         question: "Do you serve my area?",
-        answer: "We serve all of Madison and the greater Dane County area, including Sun Prairie, Middleton, Verona, Fitchburg, Waunakee, Stoughton, DeForest, Cottage Grove, McFarland, and Monona. If you're unsure, just ask."
+        answer: "We serve all of the North Shore, North Suburbs, and greater Essex County, including Sun Prairie, Middleton, Verona, Fitchburg, Waunakee, Stoughton, DeForest, Cottage Grove, McFarland, and Monona. If you're unsure, just ask."
       },
       {
         question: "What if I'm not happy with the clean?",
@@ -109,11 +109,11 @@ window.PAGES_CONTENT = {
     ],
     serviceArea: {
       heading: "Our Service Area",
-      text: "Madtown Maids serves homes and businesses across Madison, WI and the surrounding Dane County communities. Our teams actively clean in every neighborhood from the Isthmus to the far west side, east side, south side, and north side."
+      text: "Marble Head Maids serves homes and businesses across North Shore, MA and the surrounding Essex County communities. Our teams actively clean in every neighborhood from the Isthmus to the far west side, east side, south side, and north side."
     },
     cta: {
       title: "Get a Cleaner Home This Week",
-      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Madtown Maids is ready when you are."
+      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
     }
   },
   careers: {
@@ -121,7 +121,7 @@ window.PAGES_CONTENT = {
     intro: "Fill out the form below and we'll be in touch.",
     cta: {
       title: "Ready to Join Our Team?",
-      description: "Contact us today to learn more about open positions with Madtown Maids in Madison and Dane County."
+      description: "Contact us today to learn more about open positions with Marble Head Maids in the North Shore and North Suburbs."
     }
   },
   privacy: {
@@ -155,7 +155,7 @@ window.PAGES_CONTENT = {
     ],
     cta: {
       title: "Questions About Our Privacy Policy?",
-      description: "Contact us at support@madtownmaids.com if you have any questions about how we handle your information."
+      description: "Contact us at support@marbleheadmaids.com if you have any questions about how we handle your information."
     }
   },
   terms: {
@@ -165,7 +165,7 @@ window.PAGES_CONTENT = {
         subsections: [
           {
             title: "SMS Communications",
-            text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Madtown Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary."
+            text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marble Head Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary."
           },
           {
             title: "Message & Data Rates",
@@ -177,7 +177,7 @@ window.PAGES_CONTENT = {
           },
           {
             title: "Carrier Disclaimer",
-            text: "Madtown Maids is not responsible for transmission delays or failures caused by your wireless carrier. Carriers are not liable for the content or delivery of messages sent by us."
+            text: "Marble Head Maids is not responsible for transmission delays or failures caused by your wireless carrier. Carriers are not liable for the content or delivery of messages sent by us."
           },
           {
             title: "Eligibility",
@@ -188,7 +188,7 @@ window.PAGES_CONTENT = {
     ],
     cta: {
       title: "Get a Cleaner Home This Week",
-      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Madtown Maids is ready when you are."
+      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
     }
   }
 };

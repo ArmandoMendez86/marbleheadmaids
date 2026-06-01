@@ -1,4 +1,4 @@
-// Extraction script for madtownmaids.com service pages (use with Runtime.evaluate)
+// Extraction script for marbleheadmaids.com service pages (use with Runtime.evaluate)
 (() => {
   const slug = location.pathname.split('/').filter(Boolean).pop();
   const pageTitle = document.title;
@@ -10,7 +10,7 @@
   const h1 = hero?.querySelector('h1')?.innerText?.trim() || '';
   const heroSubtitle = hero?.querySelector('h1 + p')?.innerText?.trim() || '';
   const isKnown = (h2) =>
-    /What's Included|Included in|When to Book|Scheduling Options|Other Cleaning|How It Works|Save with Recurring|Prices in|Pricing|Why .+ Choose|Why Madison Hosts|Throughout|Across Madison|FAQ|Common Questions/i.test(h2) ||
+    /What's Included|Included in|When to Book|Scheduling Options|Other Cleaning|How It Works|Save with Recurring|Prices in|Pricing|Why .+ Choose|Why North Shore Hosts|Throughout|Across Madison|FAQ|Common Questions/i.test(h2) ||
     /^(Get Your|Ready to|Give Your|Start Your|Move Out|Turn Your|Your Reviews|Ready for)/i.test(h2);
   const introSec = find(s => {
     const h2 = h2Of(s);
@@ -71,7 +71,7 @@
   };
   const whySec = find(
     (s) =>
-      /Why .+ Choose|Why Madison Hosts Choose|Why Madison Businesses Choose/i.test(h2Of(s))
+      /Why .+ Choose|Why North Shore Hosts Choose|Why North Shore Businesses Choose/i.test(h2Of(s))
   );
   const whyChoose = {
     heading: h2Of(whySec),

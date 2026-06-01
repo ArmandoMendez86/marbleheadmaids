@@ -23,16 +23,16 @@ CITIES = {
 }
 
 TITLES = {
-    "sun-prairie": "House Cleaning Sun Prairie WI — Serving Madison's Largest Suburb | Madtown Maids",
-    "middleton": "House Cleaning Middleton WI — Quality Cleaning for Middleton Homes | Madtown Maids",
-    "verona": "House Cleaning Verona WI — Trusted Local Cleaners | Madtown Maids",
-    "fitchburg": "House Cleaning Fitchburg WI — Homes & Apartments | Madtown Maids",
-    "waunakee": "House Cleaning Waunakee WI — Family Homes & New Builds | Madtown Maids",
-    "stoughton": "House Cleaning Stoughton WI — Professional Cleaners Near You | Madtown Maids",
-    "deforest": "House Cleaning DeForest WI — Growing Community, Reliable Cleaning | Madtown Maids",
-    "cottage-grove": "House Cleaning Cottage Grove WI — Fast-Growing, Fully Served | Madtown Maids",
-    "mcfarland": "House Cleaning McFarland WI — Lakeside Community, Local Cleaners | Madtown Maids",
-    "monona": "House Cleaning Monona WI — Local Cleaning for a Local Community | Madtown Maids",
+    "sun-prairie": "House Cleaning Sun Prairie MA — Serving the North Shore's Largest Suburb | Marble Head Maids",
+    "middleton": "House Cleaning Middleton MA — Quality Cleaning for Middleton Homes | Marble Head Maids",
+    "verona": "House Cleaning Verona MA — Trusted Local Cleaners | Marble Head Maids",
+    "fitchburg": "House Cleaning Fitchburg MA — Homes & Apartments | Marble Head Maids",
+    "waunakee": "House Cleaning Waunakee MA — Family Homes & New Builds | Marble Head Maids",
+    "stoughton": "House Cleaning Stoughton MA — Professional Cleaners Near You | Marble Head Maids",
+    "deforest": "House Cleaning DeForest MA — Growing Community, Reliable Cleaning | Marble Head Maids",
+    "cottage-grove": "House Cleaning Cottage Grove MA — Fast-Growing, Fully Served | Marble Head Maids",
+    "mcfarland": "House Cleaning McFarland MA — Lakeside Community, Local Cleaners | Marble Head Maids",
+    "monona": "House Cleaning Monona MA — Local Cleaning for a Local Community | Marble Head Maids",
 }
 
 
@@ -49,7 +49,7 @@ def parse_location(slug, lines):
     about_idx = find_index(lines, f"About {city}")
     services_idx = find_index(lines, f"Cleaning Services Available in {city}")
     recurring_idx = find_index(lines, f"Recurring Cleaning Services in {city}")
-    why_idx = find_index(lines, f"Why {city} Homeowners Choose Madtown Maids")
+    why_idx = find_index(lines, f"Why {city} Homeowners Choose Marble Head Maids")
     faq_idx = find_index(lines, f"{city} Cleaning FAQs")
     cta_idx = find_index(lines, f"Get a Quote for Your {city} Home")
 
@@ -108,7 +108,7 @@ def parse_location(slug, lines):
         },
         {
             "title": "Same Teams, Same Quality",
-            "description": f"Your {city} home gets the same trained team, the same checklist, and the same quality standard as a home on Madison's near west side.",
+            "description": f"Your {city} home gets the same trained team, the same checklist, and the same quality standard as a home on the North Shore's near west side.",
         },
         {
             "title": "Transparent Pricing",
@@ -124,8 +124,8 @@ def parse_location(slug, lines):
         "slug": slug,
         "city": city,
         "pageTitle": TITLES[slug],
-        "metaDescription": f"House cleaning in {city}, WI. Recurring, deep cleaning, move-in/out and more from Madtown Maids. Background-checked teams, transparent pricing.",
-        "h1": f"House Cleaning in {city}, WI",
+        "metaDescription": f"House cleaning in {city}, MA. Recurring, deep cleaning, move-in/out and more from Marble Head Maids. Background-checked teams, transparent pricing.",
+        "h1": f"House Cleaning in {city}, MA",
         "heroSubtitle": hero_subtitle,
         "about": {
             "heading": f"About {city}",
@@ -136,7 +136,7 @@ def parse_location(slug, lines):
         "recurringSubtitle": recurring_subtitle,
         "recurringText": recurring_text,
         "whyChoose": {
-            "heading": f"Why {city} Homeowners Choose Madtown Maids",
+            "heading": f"Why {city} Homeowners Choose Marble Head Maids",
             "items": why_items,
         },
         "faq": {

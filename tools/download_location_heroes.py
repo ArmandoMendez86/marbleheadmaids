@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Download location hero images from madtownmaids.com."""
+"""Download location hero images from marbleheadmaids.com."""
 
 import urllib.request
 from pathlib import Path
@@ -24,7 +24,7 @@ SLUGS = [
     "home",
 ]
 
-BASE = "https://madtownmaids.com/images/heroes/"
+BASE = "https://marbleheadmaids.com/images/heroes/"
 
 
 def main():

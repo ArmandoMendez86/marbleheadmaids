@@ -14,15 +14,15 @@ def cat(title, items):
 PAGES = {
     "apartment-cleaning": {
         "slug": "apartment-cleaning",
-        "pageTitle": "Apartment Cleaning Madison WI — Renter-Friendly Pricing | Madtown Maids",
-        "metaDescription": "Apartment cleaning across Madison — from Langdon Street studios to east-side two-bedrooms. Priced for your unit size, not a 4-bedroom house.",
-        "h1": "Apartment Cleaning in Madison, WI — Sized for Your Space, Priced for Renters",
-        "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Madtown Maids offers apartment cleaning across Madison — from Langdon Street studios to east-side two-bedrooms and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
+        "pageTitle": "Apartment Cleaning North Shore MA — Renter-Friendly Pricing | Marble Head Maids",
+        "metaDescription": "Apartment cleaning across North Shore — from studios to multi-bedroom units. Priced for your unit size, not a 4-bedroom house.",
+        "h1": "Apartment Cleaning in North Shore, MA — Sized for Your Space, Priced for Renters",
+        "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Marble Head Maids offers apartment cleaning across North Shore — from studios to multi-bedroom units and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
         "intro": {
-            "heading": "Apartment Cleaning Built for Madison Renters",
+            "heading": "Apartment Cleaning Built for North Shore Renters",
             "paragraphs": [
-                "Madison apartments aren't like houses — they're different animals entirely. Smaller spaces that show dirt immediately. Campus-area units with high turnover. You need cleaners who understand all of this.",
-                "At Madtown Maids, we've cleaned apartments across Madison — from high-rises downtown to duplexes on Williamson Street, from complexes off Mineral Point to garden-level units near campus. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
+                "North Shore apartments aren't like houses — they're different animals entirely. Smaller spaces that show dirt immediately. Campus-area units with high turnover. You need cleaners who understand all of this.",
+                "At Marble Head Maids, we've cleaned apartments across North Shore — from high-rises downtown to duplexes on Williamson Street, from complexes off Mineral Point to garden-level units near campus. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
                 "We respect that you're renting. We're careful with walls and fixtures, mindful of neighbors, and focused on keeping your space in top condition — whether that's for your own sanity or your landlord's next inspection.",
             ],
         },
@@ -39,8 +39,8 @@ PAGES = {
         "whenToBook": {
             "heading": "When to Book Apartment Cleaning",
             "options": [
-                {"title": "Weekly Cleaning", "description": "Best for busy professionals, pet owners, or anyone who wants to come home to a fresh apartment every week. Madison apartments get dirty fast — this keeps them under control."},
-                {"title": "Biweekly Cleaning", "description": "The sweet spot for most Madison renters. Keeps your apartment consistently clean without weekly visits. Great for smaller units or those who tidy between visits."},
+                {"title": "Weekly Cleaning", "description": "Best for busy professionals, pet owners, or anyone who wants to come home to a fresh apartment every week. North Shore apartments get dirty fast — this keeps them under control."},
+                {"title": "Biweekly Cleaning", "description": "The sweet spot for most North Shore renters. Keeps your apartment consistently clean without weekly visits. Great for smaller units or those who tidy between visits."},
                 {"title": "Monthly Cleaning", "description": "Good for studios, single-person households, or as a supplement to your own routine. Maintains standards without the weekly commitment."},
                 {"title": "One-Time Cleaning", "description": "Not ready for recurring service? Perfect for a reset, pre-party prep, or when life just got ahead of you. Many recurring clients started with a single visit."},
                 {"title": "Move-In or Move-Out", "description": "Starting a new lease or ending one? Our move-in and move-out cleaning services are designed specifically for apartment transitions."},
@@ -49,50 +49,50 @@ PAGES = {
         "recurringTitle": "Save with Recurring Apartment Cleaning",
         "recurringSubtitle": "Set it and forget it — we'll keep your apartment spotless on your schedule",
         "pricing": {
-            "heading": "Apartment Cleaning Prices in Madison",
+            "heading": "Apartment Cleaning Prices on the North Shore",
             "paragraphs": [
                 "We price based on your apartment's size and condition — not a one-size-fits-all rate designed for houses. You pay for what you actually need cleaned.",
                 "Studio (0 BR / 1 BA): Standard Clean $110–$140, Deep Clean $160–$200.",
                 "1 Bedroom (1 BR / 1 BA): Standard Clean $130–$170, Deep Clean $190–$250.",
                 "2 Bedroom (2 BR / 1 BA): Standard Clean $170–$220, Deep Clean $250–$320.",
                 "3+ Bedroom (3+ BR / 2+ BA): Standard Clean $220+, Deep Clean $320+.",
-                "Prices vary based on condition, specific requests, and location within Madison.",
+                "Prices vary based on condition, specific requests, and location withon the North Shore.",
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Renters Choose Madtown Maids",
+            "heading": "Why North Shore Renters Choose Marble Head Maids",
             "items": [
                 {"title": "We Respect Your Space", "description": "You don't own your apartment, but it's still your home. We treat it that way—careful with surfaces, mindful of walls and fixtures, respectful of your belongings."},
                 {"title": "We Work Efficiently", "description": "Thin walls? Neighbors who work nights? Small space where everything echoes? Our teams clean quickly and quietly. We're in, we're thorough, and we're out."},
-                {"title": "Flexible, No Contracts", "description": "Madison renters move frequently — lease cycles, job changes, graduating. We don't require contracts or recurring commitments. Book when you need us."},
+                {"title": "Flexible, No Contracts", "description": "North Shore renters move frequently — lease cycles, job changes, graduating. We don't require contracts or recurring commitments. Book when you need us."},
                 {"title": "We Help Protect Your Deposit", "description": "Regular cleaning prevents buildup that leads to deductions when you move out. And when you're ready to leave, our move-out cleaning helps you get that deposit back."},
             ],
         },
-        "locations": {"heading": "Apartment Cleaning Throughout Madison", "intro": "We proudly serve apartments across Madison and Dane County."},
+        "locations": {"heading": "Apartment Cleaning Throughout Madison", "intro": "We proudly serve apartments across the North Shore and North Suburbs."},
         "faq": {
             "heading": "Apartment Cleaning FAQs",
             "items": [
                 {"question": "How long does apartment cleaning take?", "answer": "It depends on your apartment's size and condition. A standard clean for a 1-bedroom typically takes 1.5-2.5 hours. Deep cleans or larger apartments take longer. We'll give you a time estimate with your quote."},
                 {"question": "Do you bring your own supplies?", "answer": "Yes, we bring everything needed for a complete clean. If your building has rules about certain products or you have preferences (fragrance-free, eco-friendly), just let us know."},
-                {"question": "How do you handle building access?", "answer": "However works best — lockbox, door code, or you can let us in. We're experienced with all types of Madison buildings."},
+                {"question": "How do you handle building access?", "answer": "However works best — lockbox, door code, or you can let us in. We're experienced with all types of North Shore buildings."},
                 {"question": "Can you clean apartments with pets?", "answer": "Absolutely. We love pets. Just give us a heads up so we know to expect your furry friend—and any extra fur to vacuum."},
                 {"question": "How do I prepare for my apartment cleaning?", "answer": "A quick pickup of personal items and clutter helps us clean more thoroughly. We can clean around things, but the clearer the surfaces, the better."},
                 {"question": "Do I need to be home during the cleaning?", "answer": "Not at all. Many apartment clients give us a door code or leave a key. We're fully insured and background-checked."},
             ],
         },
-        "cta": {"title": "Get Your Madison Apartment Cleaned This Week", "description": "Stop spending your free time scrubbing floors. Book a professional apartment cleaning and come home to a space that actually feels relaxing."},
+        "cta": {"title": "Get Your North Shore Apartment Cleaned This Week", "description": "Stop spending your free time scrubbing floors. Book a professional apartment cleaning and come home to a space that actually feels relaxing."},
     },
     "house-cleaning": {
         "slug": "house-cleaning",
-        "pageTitle": "House Cleaning Madison WI — Weekly, Biweekly & Monthly Plans | Madtown Maids",
-        "metaDescription": "Recurring weekly, biweekly, or monthly cleaning that keeps your Madison home consistently fresh.",
-        "h1": "House Cleaning in Madison, WI — Recurring Plans That Actually Keep Your Home Clean",
-        "heroSubtitle": "You told yourself you'd keep up with it this week. Then Wednesday turned into a twelve-hour day, the kids had practice, the dog tracked mud through the kitchen, and suddenly it's Sunday night and the bathroom still hasn't been touched. Madtown Maids provides professional house cleaning across Madison — on a schedule that works for your life.",
+        "pageTitle": "House Cleaning North Shore MA — Weekly, Biweekly & Monthly Plans | Marble Head Maids",
+        "metaDescription": "Recurring weekly, biweekly, or monthly cleaning that keeps your North Shore home consistently fresh.",
+        "h1": "House Cleaning in North Shore, MA — Recurring Plans That Actually Keep Your Home Clean",
+        "heroSubtitle": "You told yourself you'd keep up with it this week. Then Wednesday turned into a twelve-hour day, the kids had practice, the dog tracked mud through the kitchen, and suddenly it's Sunday night and the bathroom still hasn't been touched. Marble Head Maids provides professional house cleaning across North Shore — on a schedule that works for your life.",
         "intro": {
             "heading": "How Our House Cleaning Works",
             "paragraphs": [
                 "Every house is different. A Nakoma bungalow has different needs than a Fitchburg colonial or a Middleton ranch. That's why we don't do cookie-cutter cleaning.",
-                "When you book with Madtown Maids, we learn about your home — the layout, the high-traffic areas, the spots that always need extra attention. Then we create a cleaning plan that actually makes sense for how you live.",
+                "When you book with Marble Head Maids, we learn about your home — the layout, the high-traffic areas, the spots that always need extra attention. Then we create a cleaning plan that actually makes sense for how you live.",
                 "The result? A home that's consistently clean, week after week. No more marathon cleaning sessions before guests arrive. No more guilt about the dust bunnies under the couch. Just a clean home you can actually relax in.",
             ],
         },
@@ -119,7 +119,7 @@ PAGES = {
         "recurringTitle": "Save with Recurring House Cleaning",
         "recurringSubtitle": "Set it and forget it — we'll keep your home spotless on your schedule",
         "pricing": {
-            "heading": "House Cleaning Prices in Madison",
+            "heading": "House Cleaning Prices on the North Shore",
             "paragraphs": [
                 "We price based on your home's size, the number of bathrooms, and the type of cleaning you need. You get a flat rate per visit — no hidden fees, no surprise charges.",
                 "Small (1-2 BR / 1 BA): Recurring $150–$190, Deep Clean $350–$450.",
@@ -130,7 +130,7 @@ PAGES = {
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Homeowners Choose Madtown Maids",
+            "heading": "Why North Shore Homeowners Choose Marble Head Maids",
             "items": [
                 {"title": "Consistent Teams", "description": "You'll see the same familiar faces each visit. Our cleaners get to know your home, your preferences, and exactly how you like things done."},
                 {"title": "Background-Checked & Insured", "description": "Every cleaner passes a comprehensive background check. We're fully insured, so your home and belongings are protected."},
@@ -138,7 +138,7 @@ PAGES = {
                 {"title": "Satisfaction Guaranteed", "description": "If something isn't right, tell us within 24 hours and we'll come back to fix it — no questions, no hassle."},
             ],
         },
-        "locations": {"heading": "House Cleaning Throughout Madison & Dane County", "intro": "We proudly serve homes across Madison and the surrounding communities."},
+        "locations": {"heading": "House Cleaning Throughout North Shore & Essex County", "intro": "We proudly serve homes across North Shore and the surrounding communities."},
         "faq": {
             "heading": "House Cleaning FAQs",
             "items": [
@@ -150,19 +150,19 @@ PAGES = {
                 {"question": "What if I need to skip or reschedule?", "answer": "No problem. Just give us 24 hours' notice and we'll reschedule at no charge. Life happens—we get it."},
             ],
         },
-        "cta": {"title": "Ready to Stop Spending Your Weekends Cleaning?", "description": "Join the Madison homeowners who've taken cleaning off their to-do list for good. Get a free quote today and see how affordable regular house cleaning can be."},
+        "cta": {"title": "Ready to Stop Spending Your Weekends Cleaning?", "description": "Join the North Shore homeowners who've taken cleaning off their to-do list for good. Get a free quote today and see how affordable regular house cleaning can be."},
     },
     "deep-cleaning": {
         "slug": "deep-cleaning",
-        "pageTitle": "Deep Cleaning Services Madison WI — Top-to-Bottom Reset | Madtown Maids",
+        "pageTitle": "Deep Cleaning Services North Shore MA — Top-to-Bottom Reset | Marble Head Maids",
         "metaDescription": "When surface-level isn't cutting it. We go behind appliances, inside cabinets, into grout lines, and across every baseboard.",
-        "h1": "Deep Cleaning Services in Madison, WI — A Complete Reset for Your Home",
+        "h1": "Deep Cleaning Services on the North Shore, MA — A Complete Reset for Your Home",
         "heroSubtitle": "When regular cleaning isn't enough. Our deep cleaning service reaches the spots you forgot existed — behind appliances, inside cabinets, under furniture, and everywhere in between. The reset your home deserves.",
         "intro": {
             "heading": "More Than Surface Clean — A Complete Home Reset",
             "paragraphs": [
                 "There's a point where wiping down the countertops and running the vacuum isn't enough anymore. The grout's discolored. There's dust behind the fridge you haven't moved in two years. The baseboards have a film you keep meaning to deal with.",
-                "That's what deep cleaning is for. It's a comprehensive, top-to-bottom clean that reaches every surface regular cleaning skips — behind, beneath, and inside. Madtown Maids provides professional deep cleaning across Madison and Dane County, with trained teams who follow a structured process to reset your home to its cleanest possible state.",
+                "That's what deep cleaning is for. It's a comprehensive, top-to-bottom clean that reaches every surface regular cleaning skips — behind, beneath, and inside. Marble Head Maids provides professional deep cleaning across the North Shore and North Suburbs, with trained teams who follow a structured process to reset your home to its cleanest possible state.",
                 "Most homes benefit from a deep clean once or twice a year, or as a starting point before beginning regular cleaning service. If it's been a while since your home had serious attention, this is where we start.",
             ],
         },
@@ -180,7 +180,7 @@ PAGES = {
             "heading": "When to Book Deep Cleaning",
             "options": [
                 {"title": "Before Starting Regular Service", "description": "If you're new to professional cleaning, we recommend starting with a deep clean. This brings your home to a clean baseline that's much easier (and less expensive) to maintain with regular visits."},
-                {"title": "Seasonal Reset", "description": "Spring cleaning is a tradition for a reason. A deep clean once or twice a year keeps the hidden buildup from getting out of control. Many Madison clients book in spring and fall."},
+                {"title": "Seasonal Reset", "description": "Spring cleaning is a tradition for a reason. A deep clean once or twice a year keeps the hidden buildup from getting out of control. Many North Shore clients book in spring and fall."},
                 {"title": "Before Major Events", "description": "Hosting Thanksgiving? Throwing a party? Having family stay for the holidays? A deep clean ensures your home is guest-ready down to the last detail."},
                 {"title": "After Extended Absence", "description": "Been traveling? Finally back home after a long project? Dust settles while you're gone. A deep clean gets everything fresh again."},
                 {"title": "Allergy Relief", "description": "Deep cleaning removes dust, pet dander, and allergens from places regular cleaning doesn't reach. If allergies are flaring up, a deep clean can make a real difference."},
@@ -189,7 +189,7 @@ PAGES = {
         "recurringTitle": "Save with Recurring Deep Cleaning",
         "recurringSubtitle": "Maintain that fresh-start feeling with regular cleaning service",
         "pricing": {
-            "heading": "Deep Cleaning Prices in Madison",
+            "heading": "Deep Cleaning Prices on the North Shore",
             "paragraphs": [
                 "Deep cleaning takes significantly more time and effort than standard cleaning, so it's priced accordingly. The investment is worth it — you're getting every corner of your home addressed.",
                 "Studio/1BR Apartment (0-1 BR / 1 BA): $200–$280.",
@@ -201,7 +201,7 @@ PAGES = {
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Homeowners Choose Madtown Maids for Deep Cleaning",
+            "heading": "Why North Shore Homeowners Choose Marble Head Maids for Deep Cleaning",
             "items": [
                 {"title": "We Don't Cut Corners", "description": "Our deep cleaning checklist is comprehensive, and we follow it completely. Every item gets addressed—no skipping, no shortcuts."},
                 {"title": "Experienced Teams", "description": "Deep cleaning requires skill. Our teams know how to clean inside appliances without damage, how to treat different surfaces, and where hidden grime accumulates."},
@@ -209,12 +209,12 @@ PAGES = {
                 {"title": "Satisfaction Guaranteed", "description": "If you're not happy with any area, let us know within 24 hours and we'll come back to address it."},
             ],
         },
-        "locations": {"heading": "Deep Cleaning Throughout Madison & Dane County", "intro": "We proudly serve homes across Madison and the surrounding communities."},
+        "locations": {"heading": "Deep Cleaning Throughout North Shore & Essex County", "intro": "We proudly serve homes across North Shore and the surrounding communities."},
         "faq": {
             "heading": "Deep Cleaning FAQs",
             "items": [
                 {"question": "How long does deep cleaning take?", "answer": "Most deep cleans take 4-6 hours depending on home size and condition. Larger homes or those that haven't been deep cleaned in years may take longer. We'll give you a time estimate with your quote."},
-                {"question": "How often should I deep clean my home?", "answer": "For most Madison homes, once or twice a year is sufficient — typically spring and fall. If you have pets, allergies, or a high-traffic household, you might benefit from quarterly deep cleans."},
+                {"question": "How often should I deep clean my home?", "answer": "For most North Shore homes, once or twice a year is sufficient — typically spring and fall. If you have pets, allergies, or a high-traffic household, you might benefit from quarterly deep cleans."},
                 {"question": "Is deep cleaning worth the cost?", "answer": "If your home hasn't had professional attention in a while, absolutely. Deep cleaning addresses months or years of buildup that regular cleaning can't tackle. Most clients are amazed at the difference."},
                 {"question": "Can you deep clean just certain rooms?", "answer": "Yes. If you only need the kitchen and bathrooms deep cleaned, or want to focus on specific areas, we can customize your service."},
                 {"question": "Do I need to prepare anything?", "answer": "Clearing clutter and personal items from surfaces helps us work more efficiently. If you have specific areas of concern, let us know in advance."},
@@ -225,10 +225,10 @@ PAGES = {
     },
     "move-in-cleaning": {
         "slug": "move-in-cleaning",
-        "pageTitle": "Move-In Cleaning Madison WI — Start Fresh in Your New Place | Madtown Maids",
+        "pageTitle": "Move-In Cleaning North Shore MA — Start Fresh in Your New Place | Marble Head Maids",
         "metaDescription": "Start fresh. We'll clean every surface, drawer, and fixture in your new place before you unpack a single box.",
-        "h1": "Move-In Cleaning in Madison, WI — Walk Into a Home That's Actually Clean",
-        "heroSubtitle": "The previous tenant said they cleaned. The landlord said it was 'move-in ready.' But you open the cabinets and there are crumbs. A move-in clean from Madtown Maids means you're not unpacking into someone else's leftover mess.",
+        "h1": "Move-In Cleaning in North Shore, MA — Walk Into a Home That's Actually Clean",
+        "heroSubtitle": "The previous tenant said they cleaned. The landlord said it was 'move-in ready.' But you open the cabinets and there are crumbs. A move-in clean from Marble Head Maids means you're not unpacking into someone else's leftover mess.",
         "intro": {
             "heading": "Why Clean Before You Move In?",
             "paragraphs": [
@@ -260,7 +260,7 @@ PAGES = {
         "recurringTitle": "Keep Your New Home Fresh with Recurring Service",
         "recurringSubtitle": "After your move-in clean, maintain that fresh feeling on your schedule",
         "pricing": {
-            "heading": "Move-In Cleaning Prices in Madison",
+            "heading": "Move-In Cleaning Prices on the North Shore",
             "paragraphs": [
                 "Move-in cleaning is priced as a deep clean since we're working through an entire empty home. The good news: empty spaces are easier to clean thoroughly.",
                 "Studio Apartment (0 BR / 1 BA): $180–$240.",
@@ -271,7 +271,7 @@ PAGES = {
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Movers Choose Madtown Maids",
+            "heading": "Why North Shore Movers Choose Marble Head Maids",
             "items": [
                 {"title": "We Work With Your Timeline", "description": "Moving schedules are unpredictable. We're flexible with booking and can often accommodate last-minute changes if your lease start shifts."},
                 {"title": "Empty Space Expertise", "description": "We know how to maximize an empty apartment—reaching every corner, cleaning inside every cabinet, and leaving nothing for you to clean later."},
@@ -279,15 +279,15 @@ PAGES = {
                 {"title": "We Know Madison", "description": "Apartment complexes, condos, houses across the isthmus and suburbs — we've cleaned them all. Just give us access details and we'll handle the rest."},
             ],
         },
-        "locations": {"heading": "Move-In Cleaning Throughout Madison & Dane County", "intro": "We proudly serve homes and apartments across Madison and the surrounding communities."},
+        "locations": {"heading": "Move-In Cleaning Throughout North Shore & Essex County", "intro": "We proudly serve homes and apartments across North Shore and the surrounding communities."},
         "faq": {
             "heading": "Move-In Cleaning FAQs",
             "items": [
-                {"question": "How soon should I book my move-in cleaning?", "answer": "As soon as you know your move-in date, reach out. We often have same-week availability, but end of month books quickly — especially during UW-Madison's lease turnover season. A week's notice is ideal."},
+                {"question": "How soon should I book my move-in cleaning?", "answer": "As soon as you know your move-in date, reach out. We often have same-week availability, but end of month books quickly — especially during UW-the North Shore's lease turnover season. A week's notice is ideal."},
                 {"question": "Can you clean if there's still some stuff in the apartment?", "answer": "We can work around some items, but the cleaner the space, the more thorough we can be. If the previous tenant left furniture or boxes, let us know—we can still help."},
                 {"question": "What if the apartment is in really bad condition?", "answer": "Some move-in situations are worse than others. If the previous tenant left significant mess, we may need to adjust scope and price. Send us photos if you're concerned."},
                 {"question": "How do I give you access to the apartment?", "answer": "However works best — meet us there, leave keys in a lockbox, provide a code, or coordinate with your property manager."},
-                {"question": "Can you clean rental properties between tenants?", "answer": "Absolutely. Property managers and landlords in Madison trust us for tenant turnover cleaning. Contact us about recurring partnership rates."},
+                {"question": "Can you clean rental properties between tenants?", "answer": "Absolutely. Property managers and landlords on the North Shore trust us for tenant turnover cleaning. Contact us about recurring partnership rates."},
                 {"question": "Do you clean new construction apartments?", "answer": "Yes. New builds have unique needs—construction dust, debris, adhesive residue. We're experienced with new construction and know what to look for."},
             ],
         },
@@ -295,21 +295,21 @@ PAGES = {
     },
     "move-out-cleaning": {
         "slug": "move-out-cleaning",
-        "pageTitle": "Move-Out Cleaning Madison WI — Get Your Full Deposit Back | Madtown Maids",
-        "metaDescription": "Leave your place landlord-ready. Designed around what Madison property managers actually inspect — so you get your deposit back.",
-        "h1": "Move-Out Cleaning in Madison, WI — Leave It Landlord-Ready, Get Your Deposit Back",
+        "pageTitle": "Move-Out Cleaning North Shore MA — Get Your Full Deposit Back | Marble Head Maids",
+        "metaDescription": "Leave your place landlord-ready. Designed around what North Shore property managers actually inspect — so you get your deposit back.",
+        "h1": "Move-Out Cleaning in North Shore, MA — Leave It Landlord-Ready, Get Your Deposit Back",
         "heroSubtitle": "Your deposit is on the line — and you've got enough to worry about. Our move-out cleaning covers everything landlords look for, so you can walk away with your full deposit and zero cleaning stress.",
         "intro": {
             "heading": "Move-Out Cleaning That Gets Your Deposit Back",
             "paragraphs": [
                 "You've packed the boxes, filed your forwarding address, and coordinated the movers. But there's one thing standing between you and your full security deposit: the condition of the apartment.",
-                "Madison landlords and property managers have 21 days to return your deposit — and they'll deduct for anything that's not up to their standard. A professional move-out clean from Madtown Maids eliminates that risk. We clean your space based on what landlords actually look for during their walk-through.",
+                "North Shore landlords and property managers have 21 days to return your deposit — and they'll deduct for anything that's not up to their standard. A professional move-out clean from Marble Head Maids eliminates that risk. We clean your space based on what landlords actually look for during their walk-through.",
                 "The oven that always gets checked? We clean inside it. The baseboards nobody notices until move-out? We wipe every one. The grout in the bathroom? Scrubbed. We're not just cleaning your old place — we're protecting your deposit.",
             ],
         },
         "checklist": {
             "heading": "What's Included in Our Move-Out Cleaning",
-            "intro": "Our move-out clean is comprehensive, covering everything that typically appears on Madison landlord and property management inspection checklists. Nothing gets overlooked.",
+            "intro": "Our move-out clean is comprehensive, covering everything that typically appears on North Shore landlord and property management inspection checklists. Nothing gets overlooked.",
             "categories": [
                 cat("Kitchen", ["Inside oven cleaned (removing all grease and residue)", "Inside refrigerator cleaned (shelves, drawers, walls, seals)", "Inside microwave and dishwasher cleaned", "Stovetop and drip pans cleaned", "Range hood degreased", "All countertops cleaned and sanitized", "Sink and faucet scrubbed until shining", "Inside all cabinets and drawers wiped out", "Backsplash cleaned", "Floor swept and mopped thoroughly", "Light fixtures and switches cleaned"]),
                 cat("Bathroom(s)", ["Toilets deep cleaned inside, outside, around, and behind", "Showers and tubs scrubbed completely", "Grout cleaned and treated", "Shower doors and tracks cleaned", "Inside vanity cabinets and drawers wiped", "Sinks and faucets polished", "Mirrors streak-free", "Medicine cabinets cleaned inside", "Exhaust fans cleaned", "Floors mopped", "All chrome and fixtures polished"]),
@@ -323,16 +323,16 @@ PAGES = {
                 {"title": "After Furniture Out, Before Walk-Through", "description": "The perfect timing. Your furniture and boxes are out, we clean thoroughly, and you arrive to your inspection confident. Schedule us 1-2 days before your walk-through if possible."},
                 {"title": "Same-Day as Move-Out", "description": "Moving and need us that same day? We can often accommodate tight timelines. You move out in the morning, we clean in the afternoon, inspection happens after."},
                 {"title": "Last-Minute Bookings", "description": "We know moves rarely go perfectly to plan. If you need us in 24-48 hours, reach out—we'll do our best to fit you in."},
-                {"title": "End of Month Rush", "description": "Most Madison leases end at the end of the month. This is our busiest time — book early if your move-out falls then."},
+                {"title": "End of Month Rush", "description": "Most North Shore leases end at the end of the month. This is our busiest time — book early if your move-out falls then."},
                 {"title": "Before Listing for Sale", "description": "Selling your condo or co-op? A thorough cleaning makes showings more impressive and helps buyers see the space without distraction."},
             ],
         },
         "recurringTitle": "Starting Fresh? Keep It That Way",
         "recurringSubtitle": "After your move, set up recurring service at your new place",
         "pricing": {
-            "heading": "Move-Out Cleaning Prices in Madison",
+            "heading": "Move-Out Cleaning Prices on the North Shore",
             "paragraphs": [
-                "Move-out cleaning is priced as a deep clean because we're cleaning to inspection standards. Think of it as the cost of protecting your deposit — which in Madison is often one to two months' rent.",
+                "Move-out cleaning is priced as a deep clean because we're cleaning to inspection standards. Think of it as the cost of protecting your deposit — which on the North Shore is often one to two months' rent.",
                 "Studio Apartment (0 BR / 1 BA): $200–$260.",
                 "1 BR Apartment (1 BR / 1 BA): $250–$340.",
                 "2 BR Apartment (2 BR / 1-2 BA): $320–$420.",
@@ -341,15 +341,15 @@ PAGES = {
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Renters Choose Madtown Maids for Move-Out",
+            "heading": "Why North Shore Renters Choose Marble Head Maids for Move-Out",
             "items": [
-                {"title": "We Know What Landlords Check", "description": "We've cleaned thousands of move-outs across Madison. We know the inspection checklist — the oven, the grout, the baseboards, the refrigerator seals. We hit every spot."},
+                {"title": "We Know What Landlords Check", "description": "We've cleaned thousands of move-outs across the North Shore. We know the inspection checklist — the oven, the grout, the baseboards, the refrigerator seals. We hit every spot."},
                 {"title": "Deposit Protection Guarantee", "description": "If your landlord identifies a cleaning issue that we were responsible for, let us know within 24 hours and we'll come back to address it at no charge."},
                 {"title": "Flexible Scheduling", "description": "Moving timelines shift constantly. We work with your schedule and can accommodate last-minute changes when possible."},
                 {"title": "One Less Stress", "description": "You've got enough on your plate. Hand off the cleaning—we've got it covered."},
             ],
         },
-        "locations": {"heading": "Move-Out Cleaning Throughout Madison & Dane County", "intro": "We proudly serve apartments and homes across Madison and the surrounding communities."},
+        "locations": {"heading": "Move-Out Cleaning Throughout North Shore & Essex County", "intro": "We proudly serve apartments and homes across North Shore and the surrounding communities."},
         "faq": {
             "heading": "Move-Out Cleaning FAQs",
             "items": [
@@ -358,17 +358,17 @@ PAGES = {
                 {"question": "What about carpet cleaning?", "answer": "Our service includes vacuuming, but professional carpet shampooing is separate. If your lease requires carpet cleaning, let us know and we can recommend providers or arrange it alongside our cleaning."},
                 {"question": "What about the walls?", "answer": "We spot-clean scuffs and marks. If your walls need repainting or have significant damage, that's beyond cleaning scope—but basic spots, we handle."},
                 {"question": "Can you help if the walk-through finds issues?", "answer": "Call us immediately. Depending on availability, we may be able to come back that same day to address concerns."},
-                {"question": "Do you work with management companies?", "answer": "Yes. Many Madison management companies and landlords use us for turnover cleaning between tenants. Contact us about partnerships."},
+                {"question": "Do you work with management companies?", "answer": "Yes. Many North Shore management companies and landlords use us for turnover cleaning between tenants. Contact us about partnerships."},
             ],
         },
         "cta": {"title": "Move Out Without the Cleaning Stress", "description": "You've got enough on your plate. Let us handle the cleaning — the right way, to inspection standards — so you can focus on your move and walk away with your deposit intact."},
     },
     "post-construction-cleaning": {
         "slug": "post-construction-cleaning",
-        "pageTitle": "Post-Construction Cleaning Madison WI — Dust & Debris Removal | Madtown Maids",
+        "pageTitle": "Post-Construction Cleaning North Shore MA — Dust & Debris Removal | Marble Head Maids",
         "metaDescription": "Renovation dust doesn't clean itself. We handle drywall dust, paint residue, adhesive removal, and construction debris.",
-        "h1": "Post-Construction Cleaning in Madison, WI — From Construction Zone to Move-In Ready",
-        "heroSubtitle": "The renovation is done. The new kitchen looks incredible. But there's a fine layer of drywall dust on everything you own, paint flecks on the window frames, and adhesive residue on the new floors. Madtown Maids provides multi-phase post-construction cleaning for homes across Madison.",
+        "h1": "Post-Construction Cleaning in North Shore, MA — From Construction Zone to Move-In Ready",
+        "heroSubtitle": "The renovation is done. The new kitchen looks incredible. But there's a fine layer of drywall dust on everything you own, paint flecks on the window frames, and adhesive residue on the new floors. Marble Head Maids provides multi-phase post-construction cleaning for homes across the North Shore.",
         "intro": {
             "heading": "Why Post-Construction Cleaning Requires Specialists",
             "paragraphs": [
@@ -400,7 +400,7 @@ PAGES = {
         "recurringTitle": "Maintain Your Renovated Space",
         "recurringSubtitle": "After the construction dust settles, keep it clean with regular service",
         "pricing": {
-            "heading": "Post-Construction Cleaning Prices in Madison",
+            "heading": "Post-Construction Cleaning Prices on the North Shore",
             "paragraphs": [
                 "Post-construction cleaning is priced based on scope—full gut renovation vs. single-room remodel, apartment size, and current condition. Because it often requires multiple passes and specialized attention, it typically costs more than standard cleaning.",
                 "Bathroom Renovation: $200–$350.",
@@ -413,15 +413,15 @@ PAGES = {
             ],
         },
         "whyChoose": {
-            "heading": "Why Madison Contractors & Homeowners Choose Madtown Maids",
+            "heading": "Why North Shore Contractors & Homeowners Choose Marble Head Maids",
             "items": [
                 {"title": "We Understand Construction Dust", "description": "We know it's different from regular cleaning. We know it settles for days. We know it hides in vents, tracks, and crevices. We clean accordingly."},
                 {"title": "Multiple-Pass Process", "description": "We don't do one wipe and call it done. Our process includes rough clean, detail clean, and touch-up as needed because construction dust keeps settling."},
                 {"title": "Safe for New Surfaces", "description": "We know how to clean brand-new countertops, fresh paint, new flooring, and delicate fixtures without causing damage."},
-                {"title": "Contractor Partnerships", "description": "We work with Madison contractors and developers who need reliable cleaning before closings. Ask about our contractor rates."},
+                {"title": "Contractor Partnerships", "description": "We work with North Shore contractors and developers who need reliable cleaning before closings. Ask about our contractor rates."},
             ],
         },
-        "locations": {"heading": "Post-Construction Cleaning Throughout Madison & Dane County", "intro": "We proudly serve homes across Madison and the surrounding communities."},
+        "locations": {"heading": "Post-Construction Cleaning Throughout North Shore & Essex County", "intro": "We proudly serve homes across North Shore and the surrounding communities."},
         "faq": {
             "heading": "Post-Construction Cleaning FAQs",
             "items": [
@@ -430,22 +430,22 @@ PAGES = {
                 {"question": "Should I change my HVAC filter after construction?", "answer": "Absolutely—and again a week or two later. Construction dust fills filters quickly. You may also want professional duct cleaning if significant construction occurred with the HVAC running."},
                 {"question": "Can you remove paint drips or caulk mess?", "answer": "We can carefully remove paint drips from hard surfaces if they'll come up without damage. Heavy paint or caulk issues may need to be addressed by your contractor."},
                 {"question": "How long does post-construction cleaning take?", "answer": "It depends on scope and condition. A bathroom renovation might take 2-3 hours. A full gut renovation might take 6-10+ hours (sometimes across multiple visits)."},
-                {"question": "Do you work with contractors directly?", "answer": "Yes. We work with Madison contractors, developers, and property managers who need reliable cleaning before closings or move-ins. Contact us about partnership rates."},
+                {"question": "Do you work with contractors directly?", "answer": "Yes. We work with North Shore contractors, developers, and property managers who need reliable cleaning before closings or move-ins. Contact us about partnership rates."},
             ],
         },
         "cta": {"title": "Turn Your Construction Zone Into a Home", "description": "You've waited through months of renovation. Don't spend another day living with dust. Let us finish what your contractor started and make your new space move-in ready."},
     },
     "airbnb-rental-cleaning": {
         "slug": "airbnb-rental-cleaning",
-        "pageTitle": "Airbnb & Rental Cleaning Madison WI — Fast Turnovers, 5-Star Reviews | Madtown Maids",
+        "pageTitle": "Airbnb & Rental Cleaning North Shore MA — Fast Turnovers, 5-Star Reviews | Marble Head Maids",
         "metaDescription": "Same-day turnovers, linen changes, restocking, and damage reports. Reliable cleaning that protects your reviews — every guest, every time.",
-        "h1": "Airbnb & Short-Term Rental Cleaning in Madison, WI",
-        "heroSubtitle": "Guest-ready, every time. Madtown Maids provides fast, reliable turnover cleaning for Airbnb, VRBO, and short-term rental hosts across Madison — with the speed, consistency, and reliability your reviews depend on.",
+        "h1": "Airbnb & Short-Term Rental Cleaning in North Shore, MA",
+        "heroSubtitle": "Guest-ready, every time. Marble Head Maids provides fast, reliable turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on.",
         "intro": {
             "heading": "Turnover Cleaning That Protects Your Reviews",
             "paragraphs": [
                 "Your guest checks out at 11 AM. The next one checks in at 4 PM. In between, your rental needs to go from \"lived in for three days\" to \"looks like no one's ever touched it.\" Every. Single. Time.",
-                "One missed hair in the bathtub. One sticky counter. One dusty nightstand. That's the difference between a 5-star review and a complaint. Madtown Maids provides turnover cleaning for Airbnb, VRBO, and short-term rental hosts across Madison — with the speed, consistency, and reliability your reviews depend on.",
+                "One missed hair in the bathtub. One sticky counter. One dusty nightstand. That's the difference between a 5-star review and a complaint. Marble Head Maids provides turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on.",
             ],
         },
         "checklist": {
@@ -462,17 +462,17 @@ PAGES = {
             "heading": "Scheduling Options for Hosts",
             "options": [
                 {"title": "Same-Day Turnovers", "description": "Guest checks out in the morning, next guest arrives in the afternoon. We schedule turnover cleans with specific arrival windows — your next guest is never waiting because we ran late."},
-                {"title": "Back-to-Back Weekends", "description": "High season in Madison means constant bookings. We handle recurring weekend turnovers on a consistent schedule so you never have to scramble."},
+                {"title": "Back-to-Back Weekends", "description": "High season on the North Shore means constant bookings. We handle recurring weekend turnovers on a consistent schedule so you never have to scramble."},
                 {"title": "Last-Minute & Flexible", "description": "Guest extended their stay? Early check-in request? Double booking? We handle schedule changes and last-minute requests because we know that's the reality of hosting."},
                 {"title": "Seasonal Properties", "description": "Not every property is booked every weekend. We'll clean when you need us — three times a week in summer or once a month in winter."},
-                {"title": "Multi-Property Management", "description": "Managing two, five, or twenty rental properties in the Madison area? We can handle all of them with dedicated account management and volume pricing."},
+                {"title": "Multi-Property Management", "description": "Managing two, five, or twenty rental properties in the North Shore area? We can handle all of them with dedicated account management and volume pricing."},
             ],
         },
         "recurringTitle": None,
         "recurringSubtitle": None,
         "pricing": None,
         "whyChoose": {
-            "heading": "Why Madison Hosts Choose Madtown Maids",
+            "heading": "Why North Shore Hosts Choose Marble Head Maids",
             "items": [
                 {"title": "We Understand the Clock", "description": "Same-day turnovers leave no room for \"we'll be there sometime this afternoon.\" We schedule with specific arrival windows and communicate if anything changes."},
                 {"title": "Consistency That Protects Your Reviews", "description": "Your listing depends on every single stay being clean. We use a standardized checklist for your property so the clean is identical regardless of which team member is there."},
@@ -480,7 +480,7 @@ PAGES = {
                 {"title": "Damage & Issue Reporting", "description": "We'll flag anything unusual — stains, damage, broken items, missing inventory — and send you a report with photos before the next guest arrives. This protects you on damage claims."},
             ],
         },
-        "locations": {"heading": "Rental Turnover Cleaning Throughout Madison & Dane County", "intro": "We serve short-term rental hosts across Madison and the surrounding communities."},
+        "locations": {"heading": "Rental Turnover Cleaning Throughout North Shore & Essex County", "intro": "We serve short-term rental hosts across North Shore and the surrounding communities."},
         "faq": {
             "heading": "Common Questions for Hosts",
             "items": [
@@ -488,7 +488,7 @@ PAGES = {
                 {"question": "Do you provide linens and supplies?", "answer": "We can work with your linens and supplies, source them for you, or integrate with a linen service. Whatever works for your operation."},
                 {"question": "What if a guest leaves the place in terrible shape?", "answer": "We handle it. Heavily soiled turnovers may take longer and cost more, but we'll communicate that to you before the next guest arrives — along with photo documentation for any damage claims."},
                 {"question": "Can you handle seasonal properties or irregular bookings?", "answer": "Absolutely. Not every property is booked every weekend. We'll clean when you need us, whether that's three times a week in summer or once a month in winter."},
-                {"question": "I manage the property remotely — is that a problem?", "answer": "Not at all. Many of our host clients live outside Madison. We communicate everything via text, email, or app — including post-clean confirmation and damage reports."},
+                {"question": "I manage the property remotely — is that a problem?", "answer": "Not at all. Many of our host clients live outside the North Shore. We communicate everything via text, email, or app — including post-clean confirmation and damage reports."},
                 {"question": "How is turnover cleaning priced?", "answer": "Pricing depends on property size, scope of work (laundry, restocking, staging), and volume. Hosts with consistent weekly bookings benefit from per-turnover rates that are more favorable than one-off cleanings. We price per turnover, not hourly."},
             ],
         },
@@ -496,15 +496,15 @@ PAGES = {
     },
     "commercial-cleaning": {
         "slug": "commercial-cleaning",
-        "pageTitle": "Commercial Cleaning Madison WI — Offices, Retail & Business Spaces | Madtown Maids",
+        "pageTitle": "Commercial Cleaning North Shore MA — Offices, Retail & Business Spaces | Marble Head Maids",
         "metaDescription": "Offices, retail, medical, and business spaces cleaned on your schedule. Evening and weekend availability, dedicated teams, no long-term contracts.",
-        "h1": "Commercial Cleaning in Madison, WI — Clean Workspace, Zero Hassle",
-        "heroSubtitle": "A clean workspace affects how your employees feel, how clients perceive your business, and how much sick time your team takes. Madtown Maids provides commercial cleaning for offices, retail, medical facilities, and more — scheduled around your business hours.",
+        "h1": "Commercial Cleaning in North Shore, MA — Clean Workspace, Zero Hassle",
+        "heroSubtitle": "A clean workspace affects how your employees feel, how clients perceive your business, and how much sick time your team takes. Marble Head Maids provides commercial cleaning for offices, retail, medical facilities, and more — scheduled around your business hours.",
         "intro": {
             "heading": "Commercial Spaces We Clean",
             "paragraphs": [
                 "A dirty office isn't just unpleasant — it affects how your employees feel, how clients perceive your business, and how much sick time your team takes. But managing a cleaning crew shouldn't be part of your job description.",
-                "Madtown Maids provides commercial cleaning across Madison and Dane County for offices, retail spaces, medical facilities, and more. Our teams are trained, insured, and scheduled around your business hours — so you walk in every morning to a clean space without lifting a finger.",
+                "Marble Head Maids provides commercial cleaning across the North Shore and North Suburbs for offices, retail spaces, medical facilities, and more. Our teams are trained, insured, and scheduled around your business hours — so you walk in every morning to a clean space without lifting a finger.",
                 "From single-suite offices on the Capitol Square to multi-floor spaces on the west side, retail stores and showrooms, medical and dental offices, restaurants and food service, and property management common areas — we customize our service to fit any commercial space.",
             ],
         },
@@ -532,7 +532,7 @@ PAGES = {
         "recurringSubtitle": None,
         "pricing": None,
         "whyChoose": {
-            "heading": "Why Madison Businesses Choose Madtown Maids",
+            "heading": "Why North Shore Businesses Choose Marble Head Maids",
             "items": [
                 {"title": "Flexible Scheduling — Including After Hours", "description": "We offer evening, overnight, and weekend scheduling so your space is clean before the first person walks in. No disruption to your workday."},
                 {"title": "Consistent Teams, Not Rotating Strangers", "description": "We assign dedicated teams to your account. They learn your space, your preferences, and your expectations. If something isn't right, the same people come back to fix it."},
@@ -540,16 +540,16 @@ PAGES = {
                 {"title": "Fully Insured & Background-Checked", "description": "Every team member is background-checked and our business carries full commercial general liability insurance. We'll provide a certificate of insurance on request."},
             ],
         },
-        "locations": {"heading": "Commercial Cleaning Throughout Madison & Dane County", "intro": "We serve businesses across downtown, the Capitol Square area, the west side tech corridor, east side commercial districts, and suburban business parks."},
+        "locations": {"heading": "Commercial Cleaning Throughout North Shore & Essex County", "intro": "We serve businesses across downtown, the Capitol Square area, the west side tech corridor, east side commercial districts, and suburban business parks."},
         "faq": {
             "heading": "Common Questions About Commercial Cleaning",
             "items": [
-                {"question": "How much does commercial cleaning cost in Madison?", "answer": "Pricing depends on square footage, scope of work, frequency, and scheduling requirements. We provide a flat monthly quote based on your specific needs — no hourly billing."},
+                {"question": "How much does commercial cleaning cost on the North Shore?", "answer": "Pricing depends on square footage, scope of work, frequency, and scheduling requirements. We provide a flat monthly quote based on your specific needs — no hourly billing."},
                 {"question": "Can you start this week?", "answer": "For smaller spaces, we can often begin within a week. Larger accounts typically require a walk-through and setup time. Contact us and we'll give you a realistic timeline."},
                 {"question": "Do you provide cleaning supplies?", "answer": "Yes. We bring all supplies and equipment. If your facility requires specific products (e.g., green-certified, fragrance-free), we'll accommodate."},
                 {"question": "What happens on holidays?", "answer": "We'll work out a holiday schedule with you in advance. Most clients skip major holidays and adjust the cleaning schedule around them."},
                 {"question": "Can you handle one-time commercial cleaning?", "answer": "Yes — post-event cleanup, pre-inspection cleaning, or one-time deep cleans for commercial spaces are available."},
-                {"question": "What types of businesses do you work with?", "answer": "Our clients include law firms, tech companies, medical practices, real estate offices, retail stores, restaurants, nonprofits, and property management companies across Madison and Dane County."},
+                {"question": "What types of businesses do you work with?", "answer": "Our clients include law firms, tech companies, medical practices, real estate offices, retail stores, restaurants, nonprofits, and property management companies across the North Shore and North Suburbs."},
             ],
         },
         "cta": {"title": "Ready for a Cleaner Workspace?", "description": "Tell us about your space and what you need. We'll schedule a walk-through and send you a detailed, no-obligation quote."},

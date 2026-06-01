@@ -2,7 +2,7 @@
 import re
 import urllib.request
 
-url = "https://madtownmaids.com/locations/sun-prairie"
+url = "https://marbleheadmaids.com/locations/sun-prairie"
 req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
 html = urllib.request.urlopen(req, timeout=30).read().decode("utf-8", "replace")
 

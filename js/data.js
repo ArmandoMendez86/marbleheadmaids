@@ -10,28 +10,48 @@ window.SITE_DATA = {
     { label: "Commercial Cleaning", href: "services/commercial-cleaning.html" }
   ],
   locations: [
-    { label: "Sun Prairie", href: "locations/sun-prairie.html" },
+    { label: "Beverly", href: "locations/beverly.html" },
+    { label: "Danvers", href: "locations/danvers.html" },
+    { label: "Essex", href: "locations/essex.html" },
+    { label: "Gloucester", href: "locations/gloucester.html" },
+    { label: "Hamilton", href: "locations/hamilton.html" },
+    { label: "Ipswich", href: "locations/ipswich.html" },
+    { label: "Marblehead", href: "locations/marblehead.html" },
+    { label: "Nahant", href: "locations/nahant.html" },
+    { label: "Newbury", href: "locations/newbury.html" },
+    { label: "Newburyport", href: "locations/newburyport.html" },
+    { label: "Rockport", href: "locations/rockport.html" },
+    { label: "Rowley", href: "locations/rowley.html" },
+    { label: "Salem", href: "locations/salem.html" },
+    { label: "Salisbury", href: "locations/salisbury.html" },
+    { label: "Swampscott", href: "locations/swampscott.html" },
+    { label: "Andover", href: "locations/andover.html" },
+    { label: "Boxford", href: "locations/boxford.html" },
+    { label: "Georgetown", href: "locations/georgetown.html" },
+    { label: "Groveland", href: "locations/groveland.html" },
+    { label: "Haverhill", href: "locations/haverhill.html" },
+    { label: "Lawrence", href: "locations/lawrence.html" },
+    { label: "Lynn", href: "locations/lynn.html" },
+    { label: "Lynnfield", href: "locations/lynnfield.html" },
+    { label: "Methuen", href: "locations/methuen.html" },
     { label: "Middleton", href: "locations/middleton.html" },
-    { label: "Verona", href: "locations/verona.html" },
-    { label: "Fitchburg", href: "locations/fitchburg.html" },
-    { label: "Waunakee", href: "locations/waunakee.html" },
-    { label: "Stoughton", href: "locations/stoughton.html" },
-    { label: "DeForest", href: "locations/deforest.html" },
-    { label: "Cottage Grove", href: "locations/cottage-grove.html" },
-    { label: "McFarland", href: "locations/mcfarland.html" },
-    { label: "Monona", href: "locations/monona.html" }
+    { label: "North Andover", href: "locations/north-andover.html" },
+    { label: "Peabody", href: "locations/peabody.html" },
+    { label: "Saugus", href: "locations/saugus.html" },
+    { label: "Topsfield", href: "locations/topsfield.html" },
+    { label: "West Newbury", href: "locations/west-newbury.html" },
   ],
   serviceCards: [
     {
       title: "Apartment Cleaning",
       href: "services/apartment-cleaning.html",
-      description: "From studios near campus to 3-bedrooms off the beltline — apartment cleaning that's priced for your unit size, not a 4-bedroom house.",
+      description: "From studios near campus to 3-bedrooms along the Route 128 corridor — apartment cleaning that's priced for your unit size, not a 4-bedroom house.",
       icon: "M2.25 21h19.5m-18-18v18m10.5-18v18m6-13.5V21M6.75 6.75h.75m-.75 3h.75m-.75 3h.75m3-6h.75m-.75 3h.75m-.75 3h.75M6.75 21v-3.375c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21M3 3h12m-.75 4.5H21m-3.75 3.75h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008zm0 3h.008v.008h-.008v-.008z"
     },
     {
       title: "House Cleaning",
       href: "services/house-cleaning.html",
-      description: "Recurring weekly, biweekly, or monthly cleaning that keeps your Madison home consistently fresh. Our teams follow a detailed checklist so nothing gets missed — visit after visit.",
+      description: "Recurring weekly, biweekly, or monthly cleaning that keeps your North Shore home consistently fresh. Our teams follow a detailed checklist so nothing gets missed — visit after visit.",
       icon: "M2.25 12l8.954-8.955c.44-.439 1.152-.439 1.591 0L21.75 12M4.5 9.75v10.125c0 .621.504 1.125 1.125 1.125H9.75v-4.875c0-.621.504-1.125 1.125-1.125h2.25c.621 0 1.125.504 1.125 1.125V21h4.125c.621 0 1.125-.504 1.125-1.125V9.75M8.25 21h8.25"
     },
     {
@@ -49,7 +69,7 @@ window.SITE_DATA = {
     {
       title: "Move-Out Cleaning",
       href: "services/move-out-cleaning.html",
-      description: "Leave your place landlord-ready. Designed around what Madison property managers actually inspect — so you get your deposit back.",
+      description: "Leave your place landlord-ready. Designed around what North Shore property managers actually inspect — so you get your deposit back.",
       icon: "M8.25 18.75a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h6m-9 0H3.375a1.125 1.125 0 01-1.125-1.125V14.25m17.25 4.5a1.5 1.5 0 01-3 0m3 0a1.5 1.5 0 00-3 0m3 0h1.125c.621 0 1.129-.504 1.09-1.124a17.902 17.902 0 00-3.213-9.193 2.056 2.056 0 00-1.58-.86H14.25M16.5 18.75h-2.25m0-11.177v-.958c0-.568-.422-1.048-.987-1.106a48.554 48.554 0 00-10.026 0 1.106 1.106 0 00-.987 1.106v7.635m12-6.677v6.677m0 4.5v-4.5m0 0h-12"
     },
     {
@@ -104,7 +124,7 @@ window.SITE_DATA = {
   trustItems: [
     {
       title: "Locally Owned, Not a Franchise",
-      description: "Madtown Maids was built in Madison, for Madison. We're not a national chain or a gig app. We hire locally, manage our own teams, and answer to the people we serve — our neighbors."
+      description: "Marble Head Maids was built on the North Shore, for the North Shore. We're not a national chain or a gig app. We hire locally, manage our own teams, and answer to the people we serve — our neighbors."
     },
     {
       title: "Trained, Background-Checked Teams",
@@ -145,14 +165,14 @@ window.SITE_DATA = {
   ],
   testimonials: [
     {
-      quote: "We've used Madtown Maids biweekly for six months. Our house has never been cleaner, and they're incredibly easy to work with.",
+      quote: "We've used Marble Head Maids biweekly for six months. Our house has never been cleaner, and they're incredibly easy to work with.",
       name: "Sarah M.",
       location: "Middleton"
     },
     {
       quote: "Booked a move-out clean on short notice and they delivered. Full deposit back.",
       name: "Josh T.",
-      location: "Near West Side, Madison"
+      location: "Marblehead"
     },
     {
       quote: "Finally found a cleaning service that actually shows up when they say they will. Huge relief.",
@@ -170,14 +190,14 @@ window.SITE_DATA = {
       location: "Fitchburg"
     },
     {
-      quote: "After our kitchen renovation, the construction dust was everywhere. Madtown Maids did an incredible job getting everything spotless. Can finally enjoy our new space.",
+      quote: "After our kitchen renovation, the construction dust was everywhere. Marble Head Maids did an incredible job getting everything spotless. Can finally enjoy our new space.",
       name: "Robert H.",
       location: "Waunakee"
     }
   ],
   faqItems: [
     {
-      question: "How much does house cleaning cost in Madison?",
+      question: "How much does house cleaning cost on the North Shore?",
       answer: "Pricing depends on your home's size and the type of cleaning you need. We provide exact quotes before booking — no surprises. Fill out our quick form or call for a free estimate."
     },
     {
@@ -203,10 +223,10 @@ window.SITE_DATA = {
   ],
   finalCta: {
     title: "Get a Cleaner Home This Week",
-    description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Madtown Maids is ready when you are."
+    description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
   },
   footer: {
-    tagline: "Professional residential cleaning services throughout Madison, WI and Dane County. Houses, apartments, deep cleaning, and more.",
+    tagline: "Professional residential cleaning services throughout the North Shore and North Suburbs, MA. Houses, apartments, deep cleaning, and more.",
     social: [
       {
         label: "Facebook",
@@ -240,20 +260,20 @@ window.SITE_DATA = {
   },
   pages: {
     "about.html": {
-      title: "About Madtown Maids — Locally Owned Cleaning Company in Madison, WI | Madtown Maids",
-      metaDescription: "Madtown Maids is a locally owned cleaning company in Madison, WI. Background-checked teams, transparent pricing, no contracts.",
-      h1: "About Madtown Maids",
-      heroSubtitle: "A Madison cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
+      title: "About Marble Head Maids — Locally Owned Cleaning Company in North Shore, MA | Marble Head Maids",
+      metaDescription: "Marble Head Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
+      h1: "About Marble Head Maids",
+      heroSubtitle: "A North Shore cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
       sections: [
-        { heading: "Why We Started Madtown Maids", text: "You're about to hand someone the keys to your home. You want to know who they are. Madtown Maids is a locally owned and operated cleaning company based in Madison, Wisconsin. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name." },
+        { heading: "Why We Started Marble Head Maids", text: "You're about to hand someone the keys to your home. You want to know who they are. Marble Head Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name." },
         { heading: "What We Believe", text: "Your Home Deserves Respect — when our team enters your space, they treat it the way they'd want someone to treat theirs. Transparency Isn't Optional — we quote clearly, communicate directly, and don't hide behind fine print. Consistency Beats One-Time Perfection — we invest in systems, checklists, and team training so that every visit meets the same standard." },
         { heading: "Our Team", text: "Every member of our cleaning team goes through a multi-step hiring process that includes a background check, reference verification, and practical cleaning assessment. New team members complete our training program before entering a client's home." },
-        { heading: "Locally Owned, Community Connected", text: "We live in Madison. We shop here, eat here, raise our families here. We serve homes and businesses across Madison and Dane County — from the Isthmus to the suburbs." }
+        { heading: "Locally Owned, Community Connected", text: "We live on the North Shore. We shop here, eat here, raise our families here. We serve homes and businesses across the North Shore and North Suburbs — from Marblehead to the North Suburbs." }
       ]
     },
     "checklist.html": {
-      title: "Cleaning Checklist Madison, WI | What's Included in Our Cleaning | Madtown Maids",
-      metaDescription: "See exactly what's included in our Madison cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
+      title: "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marble Head Maids",
+      metaDescription: "See exactly what's included in our North Shore cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
       h1: "Our Cleaning Checklist",
       heroSubtitle: "Know exactly what to expect. Every room, every detail, every time. No surprises—just a spotless home.",
       sections: [
@@ -262,27 +282,27 @@ window.SITE_DATA = {
       ]
     },
     "contact.html": {
-      title: "Contact Madtown Maids — Get a Cleaning Quote in Madison, WI | Madtown Maids",
-      metaDescription: "Contact Madtown Maids for a free cleaning quote in Madison, WI. Call, email, or fill out our form — most quotes returned within a few hours.",
+      title: "Contact Marble Head Maids — Get a Cleaning Quote in North Shore, MA | Marble Head Maids",
+      metaDescription: "Contact Marble Head Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
       h1: "Get a Free Cleaning Quote",
       heroSubtitle: "Ready to get your home, apartment, or office cleaned? Fill out the quick form below, give us a call, or shoot us a message. Most quotes come back within a few hours.",
       sections: [
-        { heading: "Other Ways to Reach Us", text: "Call or Text: (608) 571-3484 — Available Monday–Saturday, 8 AM – 6 PM. Email: support@madtownmaids.com. Hours: Monday–Friday 8am–6pm, Saturday 9am–4pm, Sunday Closed. Service Area: Madison, WI & all of Dane County." },
+        { heading: "Other Ways to Reach Us", text: "Call or Text: (617) 686-6805 — Available Monday–Saturday, 8 AM – 6 PM. Email: support@marbleheadmaids.com. Hours: Monday–Friday 8am–6pm, Saturday 9am–4pm, Sunday Closed. Service Area: the North Shore, North Suburbs & greater Essex County." },
         { heading: "Frequently Asked Questions Before Booking", text: "How quickly can you get me on the schedule? For most residential cleans, we can get you booked within a few days. How much does cleaning cost? Your quote depends on size, service type, frequency, and current condition — always a flat rate. Is there a contract? No — all residential plans are month-to-month." }
       ]
     },
     "careers.html": {
-      title: "Careers at Madtown Maids — Join Our Cleaning Team in Madison, WI | Madtown Maids",
-      metaDescription: "Join the Madtown Maids team! We're hiring reliable, detail-oriented cleaners in Madison, WI and Dane County.",
-      h1: "Join the Madtown Maids Team",
+      title: "Careers at Marble Head Maids — Join Our Cleaning Team in North Shore, MA | Marble Head Maids",
+      metaDescription: "Join the Marble Head Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
+      h1: "Join the Marble Head Maids Team",
       heroSubtitle: "We're always looking for reliable, detail-oriented people who take pride in their work. Flexible schedules, competitive pay, and a team that has your back.",
       sections: [
         { heading: "Apply Now", text: "Fill out the form below and we'll be in touch. We're looking for cleaners who show up on time, follow our checklist, and treat every home with respect." }
       ]
     },
     "privacy.html": {
-      title: "Privacy Policy — Madtown Maids | Madtown Maids",
-      metaDescription: "Privacy Policy for Madtown Maids, covering mobile contact information handling, cookies, and tracking technologies.",
+      title: "Privacy Policy — Marble Head Maids | Marble Head Maids",
+      metaDescription: "Privacy Policy for Marble Head Maids, covering mobile contact information handling, cookies, and tracking technologies.",
       h1: "Privacy Policy",
       heroSubtitle: "How we handle your information, mobile contact data, and the cookies we use on our site.",
       sections: [
@@ -291,12 +311,12 @@ window.SITE_DATA = {
       ]
     },
     "terms.html": {
-      title: "Terms and Conditions — Madtown Maids | Madtown Maids",
-      metaDescription: "Terms and Conditions for Madtown Maids, including SMS communications, messaging rates, and opt-out instructions.",
+      title: "Terms and Conditions — Marble Head Maids | Marble Head Maids",
+      metaDescription: "Terms and Conditions for Marble Head Maids, including SMS communications, messaging rates, and opt-out instructions.",
       h1: "Terms and Conditions",
       heroSubtitle: "Please review the terms that govern your use of our services and SMS communications.",
       sections: [
-        { heading: "SMS Communications and Messaging Terms", text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Madtown Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary. Message and data rates may apply. You may opt out at any time by replying STOP." }
+        { heading: "SMS Communications and Messaging Terms", text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marble Head Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary. Message and data rates may apply. You may opt out at any time by replying STOP." }
       ]
     }
   }

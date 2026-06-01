@@ -1,6 +1,6 @@
 (function () {
   const RECURRING_TEXT =
-    "Life in Madison moves fast. Between work, weekend farmers' markets, exploring the lakes, and everything in between, who has time to clean? Our flexible scheduling lets you choose the frequency that fits your lifestyle. Need to skip a week or reschedule? No problem — just give us 24 hours notice.";
+    "Life on the North Shore moves fast. Between work, weekend plans, coastal living, and busy schedules, and everything in between, who has time to clean? Our flexible scheduling lets you choose the frequency that fits your lifestyle. Need to skip a week or reschedule? No problem — just give us 24 hours notice.";
 
   const CHECK_ICON =
     "M9 12.75L11.25 15 15 9.75M21 12a9 9 0 11-18 0 9 9 0 0118 0z";

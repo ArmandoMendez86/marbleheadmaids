@@ -49,7 +49,7 @@
         <div class="footer__grid">
           <div class="footer__brand">
             <a href="${base}index.html" class="footer__logo">
-              Madtown <span class="text-primary">Maids</span>
+              Marble Head <span class="text-primary">Maids</span>
             </a>
             <p class="footer__tagline">${footerData.tagline}</p>
             <div class="footer__social">${socialHtml}</div>
@@ -75,7 +75,7 @@
               </li>
               <li>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z"/></svg>
-                <a href="mailto:support@madtownmaids.com">support@madtownmaids.com</a>
+                <a href="mailto:support@marbleheadmaids.com">support@marbleheadmaids.com</a>
               </li>
               <li>
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
@@ -83,13 +83,13 @@
               </li>
             </ul>
             <div class="footer__map">
-              <iframe src="${MAP_EMBED}" width="100%" height="100%" style="border:0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Madtown Maids - ${FOOTER_ADDRESS_LINE2}"></iframe>
+              <iframe src="${MAP_EMBED}" width="100%" height="100%" style="border:0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Marble Head Maids - ${FOOTER_ADDRESS_LINE2}"></iframe>
             </div>
           </div>
         </div>
         <div class="footer__bottom">
           <div class="footer__legal">${legalHtml}</div>
-          <p class="footer__copy">&copy; ${year} Madtown Maids. All rights reserved.</p>
+          <p class="footer__copy">&copy; ${year} Marble Head Maids. All rights reserved.</p>
         </div>
       </div>
     `;
@@ -105,7 +105,7 @@
     el.innerHTML = `
       <div class="container trust__inner">
         <div class="trust__heading">
-          <h3>Trusted by Madison Residents</h3>
+          <h3>Trusted by North Shore Residents</h3>
           <p>5 star rated service</p>
         </div>
         <div class="trust__logos">

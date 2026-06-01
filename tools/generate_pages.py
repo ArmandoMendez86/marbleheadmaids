@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate internal HTML pages for Madtown Maids clone."""
+"""Generate internal HTML pages for Marble Head Maids clone."""
 
 from pathlib import Path
 
@@ -12,7 +12,7 @@ HEADER = """<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content="{meta_description}">
-  <meta name="author" content="Madtown Maids">
+  <meta name="author" content="Marble Head Maids">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -22,7 +22,7 @@ HEADER = """<!DOCTYPE html>
 
   <header class="header">
     <div class="container header__inner">
-      <a href="{base}index.html" class="logo">Madtown <span class="text-primary">Maids</span></a>
+      <a href="{base}index.html" class="logo">Marble Head <span class="text-primary">Maids</span></a>
       <nav class="nav" aria-label="Main navigation">
         <div class="nav__dropdown" data-dropdown="services">
           <button class="nav__dropdown-btn" type="button" aria-expanded="false" aria-haspopup="true">Services
@@ -42,9 +42,9 @@ HEADER = """<!DOCTYPE html>
       </nav>
       <div class="header__actions">
         <button class="btn-quote btn-quote--header" type="button">Get a Quote</button>
-        <a href="tel:+16085713484" class="btn-phone btn-phone--header">
+        <a href="tel:+16176866805" class="btn-phone btn-phone--header">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-          (608) 571-3484
+          (617) 686-6805
         </a>
       </div>
       <button class="menu-toggle" type="button" aria-label="Open menu" aria-expanded="false">
@@ -81,9 +81,9 @@ HEADER = """<!DOCTYPE html>
       </nav>
       <div class="mobile-panel__actions">
         <button class="btn-quote btn-quote--full" type="button">Get a Quote</button>
-        <a href="tel:+16085713484" class="btn-phone btn-phone--full">
+        <a href="tel:+16176866805" class="btn-phone btn-phone--full">
           <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-          <span>(608) 571-3484</span>
+          <span>(617) 686-6805</span>
         </a>
       </div>
     </div>
@@ -123,9 +123,9 @@ SERVICE_BODY = """
           <p class="service-hero__subtitle">{hero_subtitle}</p>
           <div class="service-hero__cta">
             <button class="btn-hero-quote btn-page-quote" type="button">Get a Quote</button>
-            <a href="tel:+16085713484" class="btn-hero-phone btn-page-phone">
+            <a href="tel:+16176866805" class="btn-hero-phone btn-page-phone">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-              <span>(608) 571-3484</span>
+              <span>(617) 686-6805</span>
             </a>
           </div>
         </div>
@@ -146,7 +146,7 @@ SERVICE_BODY = """
       <div class="container">
         <div class="services__header">
           <h2 class="services__title">Other Cleaning Services</h2>
-          <p class="services__intro">Explore our full range of cleaning services available in Madison and Dane County.</p>
+          <p class="services__intro">Explore our full range of cleaning services available in the North Shore and North Suburbs.</p>
         </div>
         <div class="services__grid" id="service-other-grid"></div>
       </div>
@@ -163,9 +163,9 @@ SERVICE_BODY = """
           <p class="recurring__text" id="service-recurring-text"></p>
           <div class="recurring__cta">
             <button class="btn-quote btn-recurring-quote" type="button">Get A Quote</button>
-            <a href="tel:+16085713484" class="btn-phone btn-recurring-phone">
+            <a href="tel:+16176866805" class="btn-phone btn-recurring-phone">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-              <span>(608) 571-3484</span>
+              <span>(617) 686-6805</span>
             </a>
           </div>
         </div>
@@ -202,9 +202,9 @@ SERVICE_BODY = """
         <p class="final-cta__text" id="service-cta-text"></p>
         <div class="final-cta__buttons">
           <button class="btn-quote btn-final-quote" type="button">Get a Quote</button>
-          <a href="tel:+16085713484" class="btn-phone btn-final-phone">
+          <a href="tel:+16176866805" class="btn-phone btn-final-phone">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>(608) 571-3484</span>
+            <span>(617) 686-6805</span>
           </a>
         </div>
       </div>
@@ -220,9 +220,9 @@ MAIN_BODY = """
         <p class="page-hero__subtitle">{hero_subtitle}</p>
         <div class="page-hero__cta">
           <button class="btn-quote btn-page-quote" type="button">Get a Quote</button>
-          <a href="tel:+16085713484" class="btn-phone btn-page-phone">
+          <a href="tel:+16176866805" class="btn-phone btn-page-phone">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>(608) 571-3484</span>
+            <span>(617) 686-6805</span>
           </a>
         </div>
       </div>
@@ -243,9 +243,9 @@ MAIN_BODY = """
         <p class="final-cta__text">{cta_text}</p>
         <div class="final-cta__buttons">
           <button class="btn-quote btn-final-quote" type="button">Get a Quote</button>
-          <a href="tel:+16085713484" class="btn-phone btn-final-phone">
+          <a href="tel:+16176866805" class="btn-phone btn-final-phone">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>(608) 571-3484</span>
+            <span>(617) 686-6805</span>
           </a>
         </div>
       </div>
@@ -265,9 +265,9 @@ PAGE_HERO = """
           <p class="service-hero__subtitle">{hero_subtitle}</p>
           <div class="service-hero__cta">
             <button class="btn-hero-quote btn-page-quote" type="button">Get a Quote</button>
-            <a href="tel:+16085713484" class="btn-hero-phone btn-page-phone">
+            <a href="tel:+16176866805" class="btn-hero-phone btn-page-phone">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-              <span>(608) 571-3484</span>
+              <span>(617) 686-6805</span>
             </a>
           </div>
         </div>
@@ -287,9 +287,9 @@ LOCATION_HERO = """
           <p class="service-hero__subtitle">{hero_subtitle}</p>
           <div class="service-hero__cta">
             <button class="btn-hero-quote btn-page-quote" type="button">Get a Quote</button>
-            <a href="tel:+16085713484" class="btn-hero-phone btn-page-phone">
+            <a href="tel:+16176866805" class="btn-hero-phone btn-page-phone">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-              <span>(608) 571-3484</span>
+              <span>(617) 686-6805</span>
             </a>
           </div>
         </div>
@@ -305,9 +305,9 @@ FINAL_CTA = """
         <p class="final-cta__text" id="page-cta-text">{cta_text}</p>
         <div class="final-cta__buttons">
           <button class="btn-quote btn-final-quote" type="button">Get a Quote</button>
-          <a href="tel:+16085713484" class="btn-phone btn-final-phone">
+          <a href="tel:+16176866805" class="btn-phone btn-final-phone">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>(608) 571-3484</span>
+            <span>(617) 686-6805</span>
           </a>
         </div>
       </div>
@@ -391,9 +391,9 @@ LOCATION_BODY = """
           <p class="recurring__text" id="location-recurring-text"></p>
           <div class="recurring__cta">
             <button class="btn-quote btn-recurring-quote" type="button">Get A Quote</button>
-            <a href="tel:+16085713484" class="btn-phone btn-recurring-phone">
+            <a href="tel:+16176866805" class="btn-phone btn-recurring-phone">
               <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-              <span>(608) 571-3484</span>
+              <span>(617) 686-6805</span>
             </a>
           </div>
         </div>
@@ -413,9 +413,9 @@ LOCATION_BODY = """
         <p class="final-cta__text" id="location-cta-text">{cta_text}</p>
         <div class="final-cta__buttons">
           <button class="btn-quote btn-final-quote" type="button">Get a Quote</button>
-          <a href="tel:+16085713484" class="btn-phone btn-final-phone">
+          <a href="tel:+16176866805" class="btn-phone btn-final-phone">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" aria-hidden="true"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 5a2 2 0 012-2h3.28a1 1 0 01.948.684l1.498 4.493a1 1 0 01-.502 1.21l-2.257 1.13a11.042 11.042 0 005.516 5.516l1.13-2.257a1 1 0 011.21-.502l4.493 1.498a1 1 0 01.684.949V19a2 2 0 01-2 2h-1C9.716 21 3 14.284 3 6V5z"/></svg>
-            <span>(608) 571-3484</span>
+            <span>(617) 686-6805</span>
           </a>
         </div>
       </div>
@@ -436,18 +436,18 @@ PAGE_BODIES = {
 PAGES = {
     "about.html": {
         "page_type": "about",
-        "title": "About Madtown Maids — Locally Owned Cleaning Company in Madison, WI | Madtown Maids",
-        "meta_description": "Madtown Maids is a locally owned cleaning company in Madison, WI. Background-checked teams, transparent pricing, no contracts.",
-        "h1": "About Madtown Maids",
-        "hero_subtitle": "A Madison cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
+        "title": "About Marble Head Maids — Locally Owned Cleaning Company in North Shore, MA | Marble Head Maids",
+        "meta_description": "Marble Head Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
+        "h1": "About Marble Head Maids",
+        "hero_subtitle": "A North Shore cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
         "cta_title": "Ready to Work With Us?",
         "cta_text": "If what you've read sounds like the kind of cleaning company you want in your home, let's get started. No contracts, no pressure — just a straightforward quote based on what you need.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "checklist.html": {
         "page_type": "checklist",
-        "title": "Cleaning Checklist Madison, WI | What's Included in Our Cleaning | Madtown Maids",
-        "meta_description": "See exactly what's included in our Madison cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
+        "title": "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marble Head Maids",
+        "meta_description": "See exactly what's included in our North Shore cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
         "h1": "Our Cleaning Checklist",
         "hero_subtitle": "Know exactly what to expect. Every room, every detail, every time. No surprises—just a spotless home.",
         "cta_title": "Ready for a Spotless Home?",
@@ -458,68 +458,68 @@ PAGES = {
     },
     "contact.html": {
         "page_type": "contact",
-        "title": "Contact Madtown Maids — Get a Cleaning Quote in Madison, WI | Madtown Maids",
-        "meta_description": "Contact Madtown Maids for a free cleaning quote in Madison, WI. Call, email, or fill out our form — most quotes returned within a few hours.",
+        "title": "Contact Marble Head Maids — Get a Cleaning Quote in North Shore, MA | Marble Head Maids",
+        "meta_description": "Contact Marble Head Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
         "h1": "Get a Free Cleaning Quote",
         "hero_subtitle": "Ready to get your home, apartment, or office cleaned? Fill out the quick form below, give us a call, or shoot us a message. Most quotes come back within a few hours.",
         "cta_title": "Get a Cleaner Home This Week",
-        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Madtown Maids is ready when you are.",
+        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "careers.html": {
         "page_type": "careers",
-        "title": "Careers at Madtown Maids — Join Our Cleaning Team in Madison, WI | Madtown Maids",
-        "meta_description": "Join the Madtown Maids team! We're hiring reliable, detail-oriented cleaners in Madison, WI and Dane County.",
-        "h1": "Join the Madtown Maids Team",
+        "title": "Careers at Marble Head Maids — Join Our Cleaning Team in North Shore, MA | Marble Head Maids",
+        "meta_description": "Join the Marble Head Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
+        "h1": "Join the Marble Head Maids Team",
         "hero_subtitle": "We're always looking for reliable, detail-oriented people who take pride in their work. Flexible schedules, competitive pay, and a team that has your back.",
         "cta_title": "Ready to Join Our Team?",
-        "cta_text": "Contact us today to learn more about open positions with Madtown Maids in Madison and Dane County.",
+        "cta_text": "Contact us today to learn more about open positions with Marble Head Maids in the North Shore and North Suburbs.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "privacy.html": {
         "page_type": "privacy",
-        "title": "Privacy Policy — Madtown Maids | Madtown Maids",
-        "meta_description": "Privacy Policy for Madtown Maids, covering mobile contact information handling, cookies, and tracking technologies.",
+        "title": "Privacy Policy — Marble Head Maids | Marble Head Maids",
+        "meta_description": "Privacy Policy for Marble Head Maids, covering mobile contact information handling, cookies, and tracking technologies.",
         "h1": "Privacy Policy",
         "hero_subtitle": "How we handle your information, mobile contact data, and the cookies we use on our site.",
         "cta_title": "Questions About Our Privacy Policy?",
-        "cta_text": "Contact us at support@madtownmaids.com if you have any questions about how we handle your information.",
+        "cta_text": "Contact us at support@marbleheadmaids.com if you have any questions about how we handle your information.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "terms.html": {
         "page_type": "terms",
-        "title": "Terms and Conditions — Madtown Maids | Madtown Maids",
-        "meta_description": "Terms and Conditions for Madtown Maids, including SMS communications, messaging rates, and opt-out instructions.",
+        "title": "Terms and Conditions — Marble Head Maids | Marble Head Maids",
+        "meta_description": "Terms and Conditions for Marble Head Maids, including SMS communications, messaging rates, and opt-out instructions.",
         "h1": "Terms and Conditions",
         "hero_subtitle": "Please review the terms that govern your use of our services and SMS communications.",
         "cta_title": "Get a Cleaner Home This Week",
-        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Madtown Maids is ready when you are.",
+        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
 }
 
 SERVICES = [
-    ("apartment-cleaning.html", "Apartment Cleaning in Madison, WI — Sized for Your Space, Priced for Renters", "Apartment cleaning across Madison — from Langdon Street studios to east-side two-bedrooms. Priced for your unit size, not a 4-bedroom house.", "From studios near campus to 3-bedrooms off the beltline — apartment cleaning that's priced for your unit size, not a 4-bedroom house."),
-    ("house-cleaning.html", "House Cleaning Madison, WI — Recurring Home Cleaning You Can Count On", "Recurring weekly, biweekly, or monthly cleaning that keeps your Madison home consistently fresh.", "Recurring weekly, biweekly, or monthly cleaning that keeps your Madison home consistently fresh. Our teams follow a detailed checklist so nothing gets missed — visit after visit."),
-    ("deep-cleaning.html", "Deep Cleaning Madison, WI — Top-to-Bottom Home Reset", "When surface-level isn't cutting it. We go behind appliances, inside cabinets, into grout lines, and across every baseboard.", "When surface-level isn't cutting it. We go behind appliances, inside cabinets, into grout lines, and across every baseboard. A true top-to-bottom reset."),
-    ("move-in-cleaning.html", "Move-In Cleaning Madison, WI — Start Fresh in Your New Home", "Start fresh. We'll clean every surface, drawer, and fixture in your new place before you unpack a single box.", "Start fresh. We'll clean every surface, drawer, and fixture in your new place before you unpack a single box."),
-    ("move-out-cleaning.html", "Move-Out Cleaning Madison, WI — Get Your Deposit Back", "Leave your place landlord-ready. Designed around what Madison property managers actually inspect.", "Leave your place landlord-ready. Designed around what Madison property managers actually inspect — so you get your deposit back."),
-    ("post-construction-cleaning.html", "Post-Construction Cleaning Madison, WI — After the Renovation", "Renovation dust doesn't clean itself. We handle drywall dust, paint residue, adhesive removal, and construction debris.", "Renovation dust doesn't clean itself. We handle drywall dust, paint residue, adhesive removal, and construction debris so you can enjoy the finished project."),
-    ("airbnb-rental-cleaning.html", "Airbnb & Rental Cleaning Madison, WI — Guest-Ready Every Time", "Same-day turnovers, linen changes, restocking, and damage reports. Reliable cleaning that protects your reviews.", "Same-day turnovers, linen changes, restocking, and damage reports. Reliable cleaning that protects your reviews — every guest, every time."),
-    ("commercial-cleaning.html", "Commercial Cleaning Madison, WI — Offices & Business Spaces", "Offices, retail, medical, and business spaces cleaned on your schedule. Evening and weekend availability.", "Offices, retail, medical, and business spaces cleaned on your schedule. Evening and weekend availability, dedicated teams, no long-term contracts."),
+    ("apartment-cleaning.html", "Apartment Cleaning in North Shore, MA — Sized for Your Space, Priced for Renters", "Apartment cleaning across North Shore — from studios to multi-bedroom units. Priced for your unit size, not a 4-bedroom house.", "From studios near campus to 3-bedrooms along the Route 128 corridor — apartment cleaning that's priced for your unit size, not a 4-bedroom house."),
+    ("house-cleaning.html", "House Cleaning North Shore, MA — Recurring Home Cleaning You Can Count On", "Recurring weekly, biweekly, or monthly cleaning that keeps your North Shore home consistently fresh.", "Recurring weekly, biweekly, or monthly cleaning that keeps your North Shore home consistently fresh. Our teams follow a detailed checklist so nothing gets missed — visit after visit."),
+    ("deep-cleaning.html", "Deep Cleaning North Shore, MA — Top-to-Bottom Home Reset", "When surface-level isn't cutting it. We go behind appliances, inside cabinets, into grout lines, and across every baseboard.", "When surface-level isn't cutting it. We go behind appliances, inside cabinets, into grout lines, and across every baseboard. A true top-to-bottom reset."),
+    ("move-in-cleaning.html", "Move-In Cleaning North Shore, MA — Start Fresh in Your New Home", "Start fresh. We'll clean every surface, drawer, and fixture in your new place before you unpack a single box.", "Start fresh. We'll clean every surface, drawer, and fixture in your new place before you unpack a single box."),
+    ("move-out-cleaning.html", "Move-Out Cleaning North Shore, MA — Get Your Deposit Back", "Leave your place landlord-ready. Designed around what North Shore property managers actually inspect.", "Leave your place landlord-ready. Designed around what North Shore property managers actually inspect — so you get your deposit back."),
+    ("post-construction-cleaning.html", "Post-Construction Cleaning North Shore, MA — After the Renovation", "Renovation dust doesn't clean itself. We handle drywall dust, paint residue, adhesive removal, and construction debris.", "Renovation dust doesn't clean itself. We handle drywall dust, paint residue, adhesive removal, and construction debris so you can enjoy the finished project."),
+    ("airbnb-rental-cleaning.html", "Airbnb & Rental Cleaning North Shore, MA — Guest-Ready Every Time", "Same-day turnovers, linen changes, restocking, and damage reports. Reliable cleaning that protects your reviews.", "Same-day turnovers, linen changes, restocking, and damage reports. Reliable cleaning that protects your reviews — every guest, every time."),
+    ("commercial-cleaning.html", "Commercial Cleaning North Shore, MA — Offices & Business Spaces", "Offices, retail, medical, and business spaces cleaned on your schedule. Evening and weekend availability.", "Offices, retail, medical, and business spaces cleaned on your schedule. Evening and weekend availability, dedicated teams, no long-term contracts."),
 ]
 
 LOCATIONS = [
-    ("sun-prairie.html", "Sun Prairie", "House Cleaning in Sun Prairie, WI", "Madtown Maids is a locally owned cleaning company based in Madison, and Sun Prairie is one of our most active service areas."),
-    ("middleton.html", "Middleton", "House Cleaning in Middleton, WI", "Professional cleaning services for Middleton homes and apartments. Recurring, deep cleaning, move-in/out, and more."),
-    ("verona.html", "Verona", "House Cleaning in Verona, WI", "Trusted cleaning teams serving Verona and the greater Madison metro with transparent pricing and no contracts."),
-    ("fitchburg.html", "Fitchburg", "House Cleaning in Fitchburg, WI", "From Fitchburg neighborhoods to new developments — Madtown Maids keeps your home spotless on your schedule."),
-    ("waunakee.html", "Waunakee", "House Cleaning in Waunakee, WI", "Recurring and one-time cleaning for Waunakee homes. Background-checked teams, satisfaction guaranteed."),
-    ("stoughton.html", "Stoughton", "House Cleaning in Stoughton, WI", "House cleaning services in Stoughton, WI. Locally owned, fully insured, and ready when you are."),
-    ("deforest.html", "DeForest", "House Cleaning in DeForest, WI", "Professional residential cleaning in DeForest. Weekly, biweekly, monthly, and deep cleaning available."),
-    ("cottage-grove.html", "Cottage Grove", "House Cleaning in Cottage Grove, WI", "Madtown Maids serves Cottage Grove with the same quality and checklist-driven cleaning as Madison proper."),
-    ("mcfarland.html", "McFarland", "House Cleaning in McFarland, WI", "Reliable house cleaning in McFarland. Flat-rate quotes, no contracts, background-checked teams."),
-    ("monona.html", "Monona", "House Cleaning in Monona, WI", "Cleaning services for Monona homes and rentals. Book online or call for a free quote today."),
+    ("sun-prairie.html", "Sun Prairie", "House Cleaning in Sun Prairie, MA", "Marble Head Maids is a locally owned cleaning company based on the North Shore, and Sun Prairie is one of our most active service areas."),
+    ("middleton.html", "Middleton", "House Cleaning in Middleton, MA", "Professional cleaning services for Middleton homes and apartments. Recurring, deep cleaning, move-in/out, and more."),
+    ("verona.html", "Verona", "House Cleaning in Verona, MA", "Trusted cleaning teams serving Verona and the North Shore and North Suburbs with transparent pricing and no contracts."),
+    ("fitchburg.html", "Fitchburg", "House Cleaning in Fitchburg, MA", "From Fitchburg neighborhoods to new developments — Marble Head Maids keeps your home spotless on your schedule."),
+    ("waunakee.html", "Waunakee", "House Cleaning in Waunakee, MA", "Recurring and one-time cleaning for Waunakee homes. Background-checked teams, satisfaction guaranteed."),
+    ("stoughton.html", "Stoughton", "House Cleaning in Stoughton, MA", "House cleaning services in Stoughton, MA. Locally owned, fully insured, and ready when you are."),
+    ("deforest.html", "DeForest", "House Cleaning in DeForest, MA", "Professional residential cleaning in DeForest. Weekly, biweekly, monthly, and deep cleaning available."),
+    ("cottage-grove.html", "Cottage Grove", "House Cleaning in Cottage Grove, MA", "Marble Head Maids serves Cottage Grove with the same quality and checklist-driven cleaning as North Shore proper."),
+    ("mcfarland.html", "McFarland", "House Cleaning in McFarland, MA", "Reliable house cleaning in McFarland. Flat-rate quotes, no contracts, background-checked teams."),
+    ("monona.html", "Monona", "House Cleaning in Monona, MA", "Cleaning services for Monona homes and rentals. Book online or call for a free quote today."),
 ]
 
 
@@ -645,6 +645,12 @@ def main():
         }
         path.write_text(build_location_page(data), encoding="utf-8")
         print(f"Created {path}")
+
+    valid_slugs = set(location_pages.keys())
+    for stale in locations_dir.glob("*.html"):
+        if stale.stem not in valid_slugs:
+            stale.unlink()
+            print(f"Removed stale {stale}")
 
 
 if __name__ == "__main__":
