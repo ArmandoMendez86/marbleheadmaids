@@ -23,16 +23,16 @@ CITIES = {
 }
 
 TITLES = {
-    "sun-prairie": "House Cleaning Sun Prairie MA — Serving the North Shore's Largest Suburb | Marble Head Maids",
-    "middleton": "House Cleaning Middleton MA — Quality Cleaning for Middleton Homes | Marble Head Maids",
-    "verona": "House Cleaning Verona MA — Trusted Local Cleaners | Marble Head Maids",
-    "fitchburg": "House Cleaning Fitchburg MA — Homes & Apartments | Marble Head Maids",
-    "waunakee": "House Cleaning Waunakee MA — Family Homes & New Builds | Marble Head Maids",
-    "stoughton": "House Cleaning Stoughton MA — Professional Cleaners Near You | Marble Head Maids",
-    "deforest": "House Cleaning DeForest MA — Growing Community, Reliable Cleaning | Marble Head Maids",
-    "cottage-grove": "House Cleaning Cottage Grove MA — Fast-Growing, Fully Served | Marble Head Maids",
-    "mcfarland": "House Cleaning McFarland MA — Lakeside Community, Local Cleaners | Marble Head Maids",
-    "monona": "House Cleaning Monona MA — Local Cleaning for a Local Community | Marble Head Maids",
+    "sun-prairie": "House Cleaning Sun Prairie MA — Serving the North Shore's Largest Suburb | Marblehead Maids",
+    "middleton": "House Cleaning Middleton MA — Quality Cleaning for Middleton Homes | Marblehead Maids",
+    "verona": "House Cleaning Verona MA — Trusted Local Cleaners | Marblehead Maids",
+    "fitchburg": "House Cleaning Fitchburg MA — Homes & Apartments | Marblehead Maids",
+    "waunakee": "House Cleaning Waunakee MA — Family Homes & New Builds | Marblehead Maids",
+    "stoughton": "House Cleaning Stoughton MA — Professional Cleaners Near You | Marblehead Maids",
+    "deforest": "House Cleaning DeForest MA — Growing Community, Reliable Cleaning | Marblehead Maids",
+    "cottage-grove": "House Cleaning Cottage Grove MA — Fast-Growing, Fully Served | Marblehead Maids",
+    "mcfarland": "House Cleaning McFarland MA — Lakeside Community, Local Cleaners | Marblehead Maids",
+    "monona": "House Cleaning Monona MA — Local Cleaning for a Local Community | Marblehead Maids",
 }
 
 
@@ -49,7 +49,7 @@ def parse_location(slug, lines):
     about_idx = find_index(lines, f"About {city}")
     services_idx = find_index(lines, f"Cleaning Services Available in {city}")
     recurring_idx = find_index(lines, f"Recurring Cleaning Services in {city}")
-    why_idx = find_index(lines, f"Why {city} Homeowners Choose Marble Head Maids")
+    why_idx = find_index(lines, f"Why {city} Homeowners Choose Marblehead Maids")
     faq_idx = find_index(lines, f"{city} Cleaning FAQs")
     cta_idx = find_index(lines, f"Get a Quote for Your {city} Home")
 
@@ -124,7 +124,7 @@ def parse_location(slug, lines):
         "slug": slug,
         "city": city,
         "pageTitle": TITLES[slug],
-        "metaDescription": f"House cleaning in {city}, MA. Recurring, deep cleaning, move-in/out and more from Marble Head Maids. Background-checked teams, transparent pricing.",
+        "metaDescription": f"House cleaning in {city}, MA. Recurring, deep cleaning, move-in/out and more from Marblehead Maids. Background-checked teams, transparent pricing.",
         "h1": f"House Cleaning in {city}, MA",
         "heroSubtitle": hero_subtitle,
         "about": {
@@ -136,7 +136,7 @@ def parse_location(slug, lines):
         "recurringSubtitle": recurring_subtitle,
         "recurringText": recurring_text,
         "whyChoose": {
-            "heading": f"Why {city} Homeowners Choose Marble Head Maids",
+            "heading": f"Why {city} Homeowners Choose Marblehead Maids",
             "items": why_items,
         },
         "faq": {

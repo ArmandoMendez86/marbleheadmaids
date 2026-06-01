@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate internal HTML pages for Marble Head Maids clone."""
+"""Generate internal HTML pages for Marblehead Maids clone."""
 
 from pathlib import Path
 
@@ -12,7 +12,7 @@ HEADER = """<!DOCTYPE html>
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{title}</title>
   <meta name="description" content="{meta_description}">
-  <meta name="author" content="Marble Head Maids">
+  <meta name="author" content="Marblehead Maids">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
@@ -22,7 +22,7 @@ HEADER = """<!DOCTYPE html>
 
   <header class="header">
     <div class="container header__inner">
-      <a href="{base}index.html" class="logo">Marble Head <span class="text-primary">Maids</span></a>
+      <a href="{base}index.html" class="logo">Marblehead <span class="text-primary">Maids</span></a>
       <nav class="nav" aria-label="Main navigation">
         <div class="nav__dropdown" data-dropdown="services">
           <button class="nav__dropdown-btn" type="button" aria-expanded="false" aria-haspopup="true">Services
@@ -436,9 +436,9 @@ PAGE_BODIES = {
 PAGES = {
     "about.html": {
         "page_type": "about",
-        "title": "About Marble Head Maids — Locally Owned Cleaning Company in North Shore, MA | Marble Head Maids",
-        "meta_description": "Marble Head Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
-        "h1": "About Marble Head Maids",
+        "title": "About Marblehead Maids — Locally Owned Cleaning Company in North Shore, MA | Marblehead Maids",
+        "meta_description": "Marblehead Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
+        "h1": "About Marblehead Maids",
         "hero_subtitle": "A North Shore cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
         "cta_title": "Ready to Work With Us?",
         "cta_text": "If what you've read sounds like the kind of cleaning company you want in your home, let's get started. No contracts, no pressure — just a straightforward quote based on what you need.",
@@ -446,7 +446,7 @@ PAGES = {
     },
     "checklist.html": {
         "page_type": "checklist",
-        "title": "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marble Head Maids",
+        "title": "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marblehead Maids",
         "meta_description": "See exactly what's included in our North Shore cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
         "h1": "Our Cleaning Checklist",
         "hero_subtitle": "Know exactly what to expect. Every room, every detail, every time. No surprises—just a spotless home.",
@@ -458,28 +458,28 @@ PAGES = {
     },
     "contact.html": {
         "page_type": "contact",
-        "title": "Contact Marble Head Maids — Get a Cleaning Quote in North Shore, MA | Marble Head Maids",
-        "meta_description": "Contact Marble Head Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
+        "title": "Contact Marblehead Maids — Get a Cleaning Quote in North Shore, MA | Marblehead Maids",
+        "meta_description": "Contact Marblehead Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
         "h1": "Get a Free Cleaning Quote",
         "hero_subtitle": "Ready to get your home, apartment, or office cleaned? Fill out the quick form below, give us a call, or shoot us a message. Most quotes come back within a few hours.",
         "cta_title": "Get a Cleaner Home This Week",
-        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are.",
+        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marblehead Maids is ready when you are.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "careers.html": {
         "page_type": "careers",
-        "title": "Careers at Marble Head Maids — Join Our Cleaning Team in North Shore, MA | Marble Head Maids",
-        "meta_description": "Join the Marble Head Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
-        "h1": "Join the Marble Head Maids Team",
+        "title": "Careers at Marblehead Maids — Join Our Cleaning Team in North Shore, MA | Marblehead Maids",
+        "meta_description": "Join the Marblehead Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
+        "h1": "Join the Marblehead Maids Team",
         "hero_subtitle": "We're always looking for reliable, detail-oriented people who take pride in their work. Flexible schedules, competitive pay, and a team that has your back.",
         "cta_title": "Ready to Join Our Team?",
-        "cta_text": "Contact us today to learn more about open positions with Marble Head Maids in the North Shore and North Suburbs.",
+        "cta_text": "Contact us today to learn more about open positions with Marblehead Maids in the North Shore and North Suburbs.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
     "privacy.html": {
         "page_type": "privacy",
-        "title": "Privacy Policy — Marble Head Maids | Marble Head Maids",
-        "meta_description": "Privacy Policy for Marble Head Maids, covering mobile contact information handling, cookies, and tracking technologies.",
+        "title": "Privacy Policy — Marblehead Maids | Marblehead Maids",
+        "meta_description": "Privacy Policy for Marblehead Maids, covering mobile contact information handling, cookies, and tracking technologies.",
         "h1": "Privacy Policy",
         "hero_subtitle": "How we handle your information, mobile contact data, and the cookies we use on our site.",
         "cta_title": "Questions About Our Privacy Policy?",
@@ -488,12 +488,12 @@ PAGES = {
     },
     "terms.html": {
         "page_type": "terms",
-        "title": "Terms and Conditions — Marble Head Maids | Marble Head Maids",
-        "meta_description": "Terms and Conditions for Marble Head Maids, including SMS communications, messaging rates, and opt-out instructions.",
+        "title": "Terms and Conditions — Marblehead Maids | Marblehead Maids",
+        "meta_description": "Terms and Conditions for Marblehead Maids, including SMS communications, messaging rates, and opt-out instructions.",
         "h1": "Terms and Conditions",
         "hero_subtitle": "Please review the terms that govern your use of our services and SMS communications.",
         "cta_title": "Get a Cleaner Home This Week",
-        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are.",
+        "cta_text": "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marblehead Maids is ready when you are.",
         "extra_scripts": ['  <script src="{js_base}js/pages-content.js"></script>\n  <script src="{js_base}js/pages.js"></script>'],
     },
 }
@@ -510,14 +510,14 @@ SERVICES = [
 ]
 
 LOCATIONS = [
-    ("sun-prairie.html", "Sun Prairie", "House Cleaning in Sun Prairie, MA", "Marble Head Maids is a locally owned cleaning company based on the North Shore, and Sun Prairie is one of our most active service areas."),
+    ("sun-prairie.html", "Sun Prairie", "House Cleaning in Sun Prairie, MA", "Marblehead Maids is a locally owned cleaning company based on the North Shore, and Sun Prairie is one of our most active service areas."),
     ("middleton.html", "Middleton", "House Cleaning in Middleton, MA", "Professional cleaning services for Middleton homes and apartments. Recurring, deep cleaning, move-in/out, and more."),
     ("verona.html", "Verona", "House Cleaning in Verona, MA", "Trusted cleaning teams serving Verona and the North Shore and North Suburbs with transparent pricing and no contracts."),
-    ("fitchburg.html", "Fitchburg", "House Cleaning in Fitchburg, MA", "From Fitchburg neighborhoods to new developments — Marble Head Maids keeps your home spotless on your schedule."),
+    ("fitchburg.html", "Fitchburg", "House Cleaning in Fitchburg, MA", "From Fitchburg neighborhoods to new developments — Marblehead Maids keeps your home spotless on your schedule."),
     ("waunakee.html", "Waunakee", "House Cleaning in Waunakee, MA", "Recurring and one-time cleaning for Waunakee homes. Background-checked teams, satisfaction guaranteed."),
     ("stoughton.html", "Stoughton", "House Cleaning in Stoughton, MA", "House cleaning services in Stoughton, MA. Locally owned, fully insured, and ready when you are."),
     ("deforest.html", "DeForest", "House Cleaning in DeForest, MA", "Professional residential cleaning in DeForest. Weekly, biweekly, monthly, and deep cleaning available."),
-    ("cottage-grove.html", "Cottage Grove", "House Cleaning in Cottage Grove, MA", "Marble Head Maids serves Cottage Grove with the same quality and checklist-driven cleaning as North Shore proper."),
+    ("cottage-grove.html", "Cottage Grove", "House Cleaning in Cottage Grove, MA", "Marblehead Maids serves Cottage Grove with the same quality and checklist-driven cleaning as North Shore proper."),
     ("mcfarland.html", "McFarland", "House Cleaning in McFarland, MA", "Reliable house cleaning in McFarland. Flat-rate quotes, no contracts, background-checked teams."),
     ("monona.html", "Monona", "House Cleaning in Monona, MA", "Cleaning services for Monona homes and rentals. Book online or call for a free quote today."),
 ]

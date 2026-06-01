@@ -1,11 +1,11 @@
 window.PAGES_CONTENT = {
   about: {
     intro: {
-      heading: "Why We Started Marble Head Maids",
+      heading: "Why We Started Marblehead Maids",
       paragraphs: [
         "You're about to hand someone the keys to your home. You want to know who they are.",
-        "Marble Head Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name.",
-        "We started Marble Head Maids because we noticed something missing in the North Shore cleaning market. National franchises offered brand recognition but impersonal service. Independent cleaners offered personal touch but inconsistent availability. Gig platforms offered convenience but zero accountability.",
+        "Marblehead Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name.",
+        "We started Marblehead Maids because we noticed something missing in the North Shore cleaning market. National franchises offered brand recognition but impersonal service. Independent cleaners offered personal touch but inconsistent availability. Gig platforms offered convenience but zero accountability.",
         "We wanted to be the company that combined all three — professional reliability, personal attention, and the kind of accountability that comes from being part of the community you serve. North Shore is our home. The people we clean for are our neighbors."
       ]
     },
@@ -109,11 +109,11 @@ window.PAGES_CONTENT = {
     ],
     serviceArea: {
       heading: "Our Service Area",
-      text: "Marble Head Maids serves homes and businesses across North Shore, MA and the surrounding Essex County communities. Our teams actively clean in every neighborhood from the Isthmus to the far west side, east side, south side, and north side."
+      text: "Marblehead Maids serves homes and businesses across North Shore, MA and the surrounding Essex County communities. Our teams actively clean in every neighborhood from the Isthmus to the far west side, east side, south side, and north side."
     },
     cta: {
       title: "Get a Cleaner Home This Week",
-      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
+      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marblehead Maids is ready when you are."
     }
   },
   careers: {
@@ -121,7 +121,7 @@ window.PAGES_CONTENT = {
     intro: "Fill out the form below and we'll be in touch.",
     cta: {
       title: "Ready to Join Our Team?",
-      description: "Contact us today to learn more about open positions with Marble Head Maids in the North Shore and North Suburbs."
+      description: "Contact us today to learn more about open positions with Marblehead Maids in the North Shore and North Suburbs."
     }
   },
   privacy: {
@@ -165,7 +165,7 @@ window.PAGES_CONTENT = {
         subsections: [
           {
             title: "SMS Communications",
-            text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marble Head Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary."
+            text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marblehead Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary."
           },
           {
             title: "Message & Data Rates",
@@ -177,7 +177,7 @@ window.PAGES_CONTENT = {
           },
           {
             title: "Carrier Disclaimer",
-            text: "Marble Head Maids is not responsible for transmission delays or failures caused by your wireless carrier. Carriers are not liable for the content or delivery of messages sent by us."
+            text: "Marblehead Maids is not responsible for transmission delays or failures caused by your wireless carrier. Carriers are not liable for the content or delivery of messages sent by us."
           },
           {
             title: "Eligibility",
@@ -188,7 +188,7 @@ window.PAGES_CONTENT = {
     ],
     cta: {
       title: "Get a Cleaner Home This Week",
-      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
+      description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marblehead Maids is ready when you are."
     }
   }
 };

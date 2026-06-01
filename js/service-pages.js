@@ -1,15 +1,15 @@
 window.SERVICE_PAGES = {
   "apartment-cleaning": {
     "slug": "apartment-cleaning",
-    "pageTitle": "Apartment Cleaning North Shore MA — Renter-Friendly Pricing | Marble Head Maids",
+    "pageTitle": "Apartment Cleaning North Shore MA — Renter-Friendly Pricing | Marblehead Maids",
     "metaDescription": "Apartment cleaning across North Shore — from studios to multi-bedroom units. Priced for your unit size, not a 4-bedroom house.",
     "h1": "Apartment Cleaning in North Shore, MA — Sized for Your Space, Priced for Renters",
-    "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Marble Head Maids offers apartment cleaning across North Shore — from studios to multi-bedroom units and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
+    "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Marblehead Maids offers apartment cleaning across North Shore — from studios to multi-bedroom units and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
     "intro": {
       "heading": "Apartment Cleaning Built for North Shore Renters",
       "paragraphs": [
         "North Shore apartments aren't like houses — they're different animals entirely. Smaller spaces that show dirt immediately. Campus-area units with high turnover. You need cleaners who understand all of this.",
-        "At Marble Head Maids, we've cleaned apartments across North Shore — from high-rises downtown to duplexes on Williamson Street, from complexes off Mineral Point to garden-level units near campus. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
+        "At Marblehead Maids, we've cleaned apartments across North Shore — from high-rises downtown to duplexes on Williamson Street, from complexes off Mineral Point to garden-level units near campus. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
         "We respect that you're renting. We're careful with walls and fixtures, mindful of neighbors, and focused on keeping your space in top condition — whether that's for your own sanity or your landlord's next inspection."
       ]
     },
@@ -106,7 +106,7 @@ window.SERVICE_PAGES = {
       }
     },
     "whyChoose": {
-      "heading": "Why North Shore Renters Choose Marble Head Maids",
+      "heading": "Why North Shore Renters Choose Marblehead Maids",
       "items": [
         {
           "title": "We Respect Your Space",
@@ -166,15 +166,15 @@ window.SERVICE_PAGES = {
   },
   "house-cleaning": {
     "slug": "house-cleaning",
-    "pageTitle": "House Cleaning North Shore MA — Weekly, Biweekly & Monthly Plans | Marble Head Maids",
+    "pageTitle": "House Cleaning North Shore MA — Weekly, Biweekly & Monthly Plans | Marblehead Maids",
     "metaDescription": "Professional house cleaning in North Shore, MA. Recurring weekly, biweekly, or monthly plans with trained, background-checked teams. Detailed checklists, consistent results, transparent pricing. Book online.",
     "h1": "House Cleaning in North Shore, MA — Recurring Plans That Actually Keep Your Home Clean",
-    "heroSubtitle": "You told yourself you'd keep up with it this week. Then Wednesday turned into a twelve-hour day, the kids had practice, the dog tracked mud through the kitchen, and suddenly it's Sunday night and the bathroom still hasn't been touched. Marble Head Maids provides professional house cleaning across North Shore — on a schedule that works for your life.",
+    "heroSubtitle": "You told yourself you'd keep up with it this week. Then Wednesday turned into a twelve-hour day, the kids had practice, the dog tracked mud through the kitchen, and suddenly it's Sunday night and the bathroom still hasn't been touched. Marblehead Maids provides professional house cleaning across North Shore — on a schedule that works for your life.",
     "intro": {
       "heading": "How Our House Cleaning Works",
       "paragraphs": [
         "Every house is different. A Nakoma bungalow has different needs than a Fitchburg colonial or a Middleton ranch. That's why we don't do cookie-cutter cleaning.",
-        "When you book with Marble Head Maids, we learn about your home — the layout, the high-traffic areas, the spots that always need extra attention. Then we create a cleaning plan that actually makes sense for how you live.",
+        "When you book with Marblehead Maids, we learn about your home — the layout, the high-traffic areas, the spots that always need extra attention. Then we create a cleaning plan that actually makes sense for how you live.",
         "The result? A home that's consistently clean, week after week. No more marathon cleaning sessions before guests arrive. No more guilt about the dust bunnies under the couch. Just a clean home you can actually relax in."
       ]
     },
@@ -273,7 +273,7 @@ window.SERVICE_PAGES = {
       }
     },
     "whyChoose": {
-      "heading": "Why North Shore Homeowners Choose Marble Head Maids",
+      "heading": "Why North Shore Homeowners Choose Marblehead Maids",
       "items": [
         {
           "title": "Consistent Teams",
@@ -333,7 +333,7 @@ window.SERVICE_PAGES = {
   },
   "deep-cleaning": {
     "slug": "deep-cleaning",
-    "pageTitle": "Deep Cleaning Services North Shore MA — Top-to-Bottom Reset | Marble Head Maids",
+    "pageTitle": "Deep Cleaning Services North Shore MA — Top-to-Bottom Reset | Marblehead Maids",
     "metaDescription": "Professional deep cleaning in North Shore, MA. Behind appliances, inside cabinets, grout scrubbing, baseboard detailing & more. One-time reset or seasonal refresh. Get a quote today.",
     "h1": "Deep Cleaning Services on the North Shore, MA — A Complete Reset for Your Home",
     "heroSubtitle": "When regular cleaning isn't enough. Our deep cleaning service reaches the spots you forgot existed — behind appliances, inside cabinets, under furniture, and everywhere in between. The reset your home deserves.",
@@ -341,7 +341,7 @@ window.SERVICE_PAGES = {
       "heading": "More Than Surface Clean — A Complete Home Reset",
       "paragraphs": [
         "There's a point where wiping down the countertops and running the vacuum isn't enough anymore. The grout's discolored. There's dust behind the fridge you haven't moved in two years. The baseboards have a film you keep meaning to deal with.",
-        "That's what deep cleaning is for. It's a comprehensive, top-to-bottom clean that reaches every surface regular cleaning skips — behind, beneath, and inside. Marble Head Maids provides professional deep cleaning across the North Shore and North Suburbs, with trained teams who follow a structured process to reset your home to its cleanest possible state.",
+        "That's what deep cleaning is for. It's a comprehensive, top-to-bottom clean that reaches every surface regular cleaning skips — behind, beneath, and inside. Marblehead Maids provides professional deep cleaning across the North Shore and North Suburbs, with trained teams who follow a structured process to reset your home to its cleanest possible state.",
         "Most homes benefit from a deep clean once or twice a year, or as a starting point before beginning regular cleaning service. If it's been a while since your home had serious attention, this is where we start."
       ]
     },
@@ -453,7 +453,7 @@ window.SERVICE_PAGES = {
       "ctaLabel": "Get Your Deep Cleaning Quote"
     },
     "whyChoose": {
-      "heading": "Why North Shore Homeowners Choose Marble Head Maids for Deep Cleaning",
+      "heading": "Why North Shore Homeowners Choose Marblehead Maids for Deep Cleaning",
       "items": [
         {
           "title": "We Don't Cut Corners",
@@ -513,10 +513,10 @@ window.SERVICE_PAGES = {
   },
   "move-in-cleaning": {
     "slug": "move-in-cleaning",
-    "pageTitle": "Move-In Cleaning North Shore MA — Start Fresh in Your New Place | Marble Head Maids",
+    "pageTitle": "Move-In Cleaning North Shore MA — Start Fresh in Your New Place | Marblehead Maids",
     "metaDescription": "Move-in cleaning in North Shore, MA. We clean every surface, cabinet, and fixture in your new home or apartment before you unpack. Fresh start guaranteed. Book ahead of your move date.",
     "h1": "Move-In Cleaning in North Shore, MA — Walk Into a Home That's Actually Clean",
-    "heroSubtitle": "The previous tenant said they cleaned. The landlord said it was 'move-in ready.' But you open the cabinets and there are crumbs. A move-in clean from Marble Head Maids means you're not unpacking into someone else's leftover mess.",
+    "heroSubtitle": "The previous tenant said they cleaned. The landlord said it was 'move-in ready.' But you open the cabinets and there are crumbs. A move-in clean from Marblehead Maids means you're not unpacking into someone else's leftover mess.",
     "intro": {
       "heading": "Why Clean Before You Move In?",
       "paragraphs": [
@@ -630,7 +630,7 @@ window.SERVICE_PAGES = {
       "ctaLabel": "Get Your Move-In Quote"
     },
     "whyChoose": {
-      "heading": "Why North Shore Movers Choose Marble Head Maids",
+      "heading": "Why North Shore Movers Choose Marblehead Maids",
       "items": [
         {
           "title": "We Work With Your Timeline",
@@ -690,7 +690,7 @@ window.SERVICE_PAGES = {
   },
   "move-out-cleaning": {
     "slug": "move-out-cleaning",
-    "pageTitle": "Move-Out Cleaning North Shore MA — Get Your Full Deposit Back | Marble Head Maids",
+    "pageTitle": "Move-Out Cleaning North Shore MA — Get Your Full Deposit Back | Marblehead Maids",
     "metaDescription": "Move-out cleaning in North Shore, MA designed around what landlords actually inspect. Full deposit recovery focus. Inside appliances, closets, baseboards & more. Book before your lease ends.",
     "h1": "Move-Out Cleaning in North Shore, MA — Leave It Landlord-Ready, Get Your Deposit Back",
     "heroSubtitle": "Your deposit is on the line — and you've got enough to worry about. Our move-out cleaning covers everything landlords look for, so you can walk away with your full deposit and zero cleaning stress.",
@@ -698,7 +698,7 @@ window.SERVICE_PAGES = {
       "heading": "Move-Out Cleaning That Gets Your Deposit Back",
       "paragraphs": [
         "You've packed the boxes, filed your forwarding address, and coordinated the movers. But there's one thing standing between you and your full security deposit: the condition of the apartment.",
-        "North Shore landlords and property managers have 21 days to return your deposit — and they'll deduct for anything that's not up to their standard. A professional move-out clean from Marble Head Maids eliminates that risk. We clean your space based on what landlords actually look for during their walk-through.",
+        "North Shore landlords and property managers have 21 days to return your deposit — and they'll deduct for anything that's not up to their standard. A professional move-out clean from Marblehead Maids eliminates that risk. We clean your space based on what landlords actually look for during their walk-through.",
         "The oven that always gets checked? We clean inside it. The baseboards nobody notices until move-out? We wipe every one. The grout in the bathroom? Scrubbed. We're not just cleaning your old place — we're protecting your deposit."
       ]
     },
@@ -809,7 +809,7 @@ window.SERVICE_PAGES = {
       "ctaLabel": "Get Your Move-Out Quote"
     },
     "whyChoose": {
-      "heading": "Why North Shore Renters Choose Marble Head Maids for Move-Out",
+      "heading": "Why North Shore Renters Choose Marblehead Maids for Move-Out",
       "items": [
         {
           "title": "We Know What Landlords Check",
@@ -869,10 +869,10 @@ window.SERVICE_PAGES = {
   },
   "post-construction-cleaning": {
     "slug": "post-construction-cleaning",
-    "pageTitle": "Post-Construction Cleaning North Shore MA — Dust & Debris Removal | Marble Head Maids",
+    "pageTitle": "Post-Construction Cleaning North Shore MA — Dust & Debris Removal | Marblehead Maids",
     "metaDescription": "Post-construction cleaning in North Shore, MA. We remove drywall dust, paint residue, adhesive, and debris after renovations, remodels & new builds. Multi-phase process. Book today.",
     "h1": "Post-Construction Cleaning in North Shore, MA — From Construction Zone to Move-In Ready",
-    "heroSubtitle": "The renovation is done. The new kitchen looks incredible. But there's a fine layer of drywall dust on everything you own, paint flecks on the window frames, and adhesive residue on the new floors. Marble Head Maids provides multi-phase post-construction cleaning for homes across the North Shore.",
+    "heroSubtitle": "The renovation is done. The new kitchen looks incredible. But there's a fine layer of drywall dust on everything you own, paint flecks on the window frames, and adhesive residue on the new floors. Marblehead Maids provides multi-phase post-construction cleaning for homes across the North Shore.",
     "intro": {
       "heading": "Why Post-Construction Cleaning Requires Specialists",
       "paragraphs": [
@@ -987,7 +987,7 @@ window.SERVICE_PAGES = {
       "ctaLabel": "Get Your Custom Quote"
     },
     "whyChoose": {
-      "heading": "Why North Shore Contractors & Homeowners Choose Marble Head Maids",
+      "heading": "Why North Shore Contractors & Homeowners Choose Marblehead Maids",
       "items": [
         {
           "title": "We Understand Construction Dust",
@@ -1047,15 +1047,15 @@ window.SERVICE_PAGES = {
   },
   "airbnb-rental-cleaning": {
     "slug": "airbnb-rental-cleaning",
-    "pageTitle": "Airbnb & Rental Cleaning North Shore MA — Fast Turnovers, 5-Star Reviews | Marble Head Maids",
+    "pageTitle": "Airbnb & Rental Cleaning North Shore MA — Fast Turnovers, 5-Star Reviews | Marblehead Maids",
     "metaDescription": "Airbnb & short-term rental cleaning in North Shore, MA. Same-day turnovers, linen changes, restocking & damage reports. Reliable teams that protect your reviews. Book a turnover.",
     "h1": "Airbnb & Short-Term Rental Cleaning in North Shore, MA",
-    "heroSubtitle": "Guest-ready, every time. Marble Head Maids provides fast, reliable turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on.",
+    "heroSubtitle": "Guest-ready, every time. Marblehead Maids provides fast, reliable turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on.",
     "intro": {
       "heading": "Turnover Cleaning That Protects Your Reviews",
       "paragraphs": [
         "Your guest checks out at 11 AM. The next one checks in at 4 PM. In between, your rental needs to go from \"lived in for three days\" to \"looks like no one's ever touched it.\" Every. Single. Time.",
-        "One missed hair in the bathtub. One sticky counter. One dusty nightstand. That's the difference between a 5-star review and a complaint. Marble Head Maids provides turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on."
+        "One missed hair in the bathtub. One sticky counter. One dusty nightstand. That's the difference between a 5-star review and a complaint. Marblehead Maids provides turnover cleaning for Airbnb, VRBO, and short-term rental hosts across North Shore — with the speed, consistency, and reliability your reviews depend on."
       ]
     },
     "checklist": {
@@ -1155,7 +1155,7 @@ window.SERVICE_PAGES = {
     "recurringSubtitle": null,
     "pricing": null,
     "whyChoose": {
-      "heading": "Why North Shore Hosts Choose Marble Head Maids",
+      "heading": "Why North Shore Hosts Choose Marblehead Maids",
       "items": [
         {
           "title": "We Understand the Clock",
@@ -1215,15 +1215,15 @@ window.SERVICE_PAGES = {
   },
   "commercial-cleaning": {
     "slug": "commercial-cleaning",
-    "pageTitle": "Commercial Cleaning North Shore MA — Offices, Retail & Business Spaces | Marble Head Maids",
+    "pageTitle": "Commercial Cleaning North Shore MA — Offices, Retail & Business Spaces | Marblehead Maids",
     "metaDescription": "Commercial cleaning in North Shore, MA. Offices, retail, medical & business spaces. Flexible scheduling including evenings & weekends. Insured, trained teams. No long-term contracts. Get a quote.",
     "h1": "Commercial Cleaning in North Shore, MA — Clean Workspace, Zero Hassle",
-    "heroSubtitle": "A clean workspace affects how your employees feel, how clients perceive your business, and how much sick time your team takes. Marble Head Maids provides commercial cleaning for offices, retail, medical facilities, and more — scheduled around your business hours.",
+    "heroSubtitle": "A clean workspace affects how your employees feel, how clients perceive your business, and how much sick time your team takes. Marblehead Maids provides commercial cleaning for offices, retail, medical facilities, and more — scheduled around your business hours.",
     "intro": {
       "heading": "Commercial Spaces We Clean",
       "paragraphs": [
         "A dirty office isn't just unpleasant — it affects how your employees feel, how clients perceive your business, and how much sick time your team takes. But managing a cleaning crew shouldn't be part of your job description.",
-        "Marble Head Maids provides commercial cleaning across the North Shore and North Suburbs for offices, retail spaces, medical facilities, and more. Our teams are trained, insured, and scheduled around your business hours — so you walk in every morning to a clean space without lifting a finger."
+        "Marblehead Maids provides commercial cleaning across the North Shore and North Suburbs for offices, retail spaces, medical facilities, and more. Our teams are trained, insured, and scheduled around your business hours — so you walk in every morning to a clean space without lifting a finger."
       ],
       "cards": [
         {
@@ -1344,7 +1344,7 @@ window.SERVICE_PAGES = {
         },
         {
           "title": "Communication & Accountability",
-          "description": "You'll have a direct point of contact at Marble Head Maids. If something needs attention between scheduled visits, one call handles it."
+          "description": "You'll have a direct point of contact at Marblehead Maids. If something needs attention between scheduled visits, one call handles it."
         }
       ]
     },
@@ -1352,7 +1352,7 @@ window.SERVICE_PAGES = {
     "recurringSubtitle": null,
     "pricing": null,
     "whyChoose": {
-      "heading": "Why North Shore Businesses Choose Marble Head Maids",
+      "heading": "Why North Shore Businesses Choose Marblehead Maids",
       "items": [
         {
           "title": "Flexible Scheduling — Including After Hours",

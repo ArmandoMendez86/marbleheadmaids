@@ -49,7 +49,7 @@
         <div class="footer__grid">
           <div class="footer__brand">
             <a href="${base}index.html" class="footer__logo">
-              Marble Head <span class="text-primary">Maids</span>
+              Marblehead <span class="text-primary">Maids</span>
             </a>
             <p class="footer__tagline">${footerData.tagline}</p>
             <div class="footer__social">${socialHtml}</div>
@@ -83,13 +83,13 @@
               </li>
             </ul>
             <div class="footer__map">
-              <iframe src="${MAP_EMBED}" width="100%" height="100%" style="border:0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Marble Head Maids - ${FOOTER_ADDRESS_LINE2}"></iframe>
+              <iframe src="${MAP_EMBED}" width="100%" height="100%" style="border:0" allowfullscreen loading="lazy" referrerpolicy="no-referrer-when-downgrade" title="Marblehead Maids - ${FOOTER_ADDRESS_LINE2}"></iframe>
             </div>
           </div>
         </div>
         <div class="footer__bottom">
           <div class="footer__legal">${legalHtml}</div>
-          <p class="footer__copy">&copy; ${year} Marble Head Maids. All rights reserved.</p>
+          <p class="footer__copy">&copy; ${year} Marblehead Maids. All rights reserved.</p>
         </div>
       </div>
     `;

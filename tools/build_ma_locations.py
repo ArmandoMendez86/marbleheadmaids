@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate js/location-pages.js for Marble Head Maids (North Shore & North Suburbs, MA)."""
+"""Generate js/location-pages.js for Marblehead Maids (North Shore & North Suburbs, MA)."""
 
 import json
 import shutil
@@ -9,7 +9,7 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "js" / "location-pages.js"
 HEROES = ROOT / "images" / "heroes"
 
-BRAND = "Marble Head Maids"
+BRAND = "Marblehead Maids"
 BASE = "Marblehead"
 
 NORTH_SHORE = [

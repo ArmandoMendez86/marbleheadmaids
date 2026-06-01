@@ -124,7 +124,7 @@ window.SITE_DATA = {
   trustItems: [
     {
       title: "Locally Owned, Not a Franchise",
-      description: "Marble Head Maids was built on the North Shore, for the North Shore. We're not a national chain or a gig app. We hire locally, manage our own teams, and answer to the people we serve — our neighbors."
+      description: "Marblehead Maids was built on the North Shore, for the North Shore. We're not a national chain or a gig app. We hire locally, manage our own teams, and answer to the people we serve — our neighbors."
     },
     {
       title: "Trained, Background-Checked Teams",
@@ -165,7 +165,7 @@ window.SITE_DATA = {
   ],
   testimonials: [
     {
-      quote: "We've used Marble Head Maids biweekly for six months. Our house has never been cleaner, and they're incredibly easy to work with.",
+      quote: "We've used Marblehead Maids biweekly for six months. Our house has never been cleaner, and they're incredibly easy to work with.",
       name: "Sarah M.",
       location: "Middleton"
     },
@@ -190,7 +190,7 @@ window.SITE_DATA = {
       location: "Fitchburg"
     },
     {
-      quote: "After our kitchen renovation, the construction dust was everywhere. Marble Head Maids did an incredible job getting everything spotless. Can finally enjoy our new space.",
+      quote: "After our kitchen renovation, the construction dust was everywhere. Marblehead Maids did an incredible job getting everything spotless. Can finally enjoy our new space.",
       name: "Robert H.",
       location: "Waunakee"
     }
@@ -223,7 +223,7 @@ window.SITE_DATA = {
   ],
   finalCta: {
     title: "Get a Cleaner Home This Week",
-    description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marble Head Maids is ready when you are."
+    description: "Stop putting it off. Whether it's a one-time deep clean or a recurring plan that keeps your home spotless month after month — Marblehead Maids is ready when you are."
   },
   footer: {
     tagline: "Professional residential cleaning services throughout the North Shore and North Suburbs, MA. Houses, apartments, deep cleaning, and more.",
@@ -260,19 +260,19 @@ window.SITE_DATA = {
   },
   pages: {
     "about.html": {
-      title: "About Marble Head Maids — Locally Owned Cleaning Company in North Shore, MA | Marble Head Maids",
-      metaDescription: "Marble Head Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
-      h1: "About Marble Head Maids",
+      title: "About Marblehead Maids — Locally Owned Cleaning Company in North Shore, MA | Marblehead Maids",
+      metaDescription: "Marblehead Maids is a locally owned cleaning company in North Shore, MA. Background-checked teams, transparent pricing, no contracts.",
+      h1: "About Marblehead Maids",
       heroSubtitle: "A North Shore cleaning company built on trust. Locally owned, locally operated, and accountable to the community we serve.",
       sections: [
-        { heading: "Why We Started Marble Head Maids", text: "You're about to hand someone the keys to your home. You want to know who they are. Marble Head Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name." },
+        { heading: "Why We Started Marblehead Maids", text: "You're about to hand someone the keys to your home. You want to know who they are. Marblehead Maids is a locally owned and operated cleaning company based in Marblehead, Massachusetts. We're not a national franchise. We're not a gig platform that matches you with whoever's available. We hire our own team, train them ourselves, and stand behind every clean with our name." },
         { heading: "What We Believe", text: "Your Home Deserves Respect — when our team enters your space, they treat it the way they'd want someone to treat theirs. Transparency Isn't Optional — we quote clearly, communicate directly, and don't hide behind fine print. Consistency Beats One-Time Perfection — we invest in systems, checklists, and team training so that every visit meets the same standard." },
         { heading: "Our Team", text: "Every member of our cleaning team goes through a multi-step hiring process that includes a background check, reference verification, and practical cleaning assessment. New team members complete our training program before entering a client's home." },
         { heading: "Locally Owned, Community Connected", text: "We live on the North Shore. We shop here, eat here, raise our families here. We serve homes and businesses across the North Shore and North Suburbs — from Marblehead to the North Suburbs." }
       ]
     },
     "checklist.html": {
-      title: "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marble Head Maids",
+      title: "Cleaning Checklist North Shore, MA | What's Included in Our Cleaning | Marblehead Maids",
       metaDescription: "See exactly what's included in our North Shore cleaning services. Detailed room-by-room checklist for apartment and house cleaning.",
       h1: "Our Cleaning Checklist",
       heroSubtitle: "Know exactly what to expect. Every room, every detail, every time. No surprises—just a spotless home.",
@@ -282,8 +282,8 @@ window.SITE_DATA = {
       ]
     },
     "contact.html": {
-      title: "Contact Marble Head Maids — Get a Cleaning Quote in North Shore, MA | Marble Head Maids",
-      metaDescription: "Contact Marble Head Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
+      title: "Contact Marblehead Maids — Get a Cleaning Quote in North Shore, MA | Marblehead Maids",
+      metaDescription: "Contact Marblehead Maids for a free cleaning quote in North Shore, MA. Call, email, or fill out our form — most quotes returned within a few hours.",
       h1: "Get a Free Cleaning Quote",
       heroSubtitle: "Ready to get your home, apartment, or office cleaned? Fill out the quick form below, give us a call, or shoot us a message. Most quotes come back within a few hours.",
       sections: [
@@ -292,17 +292,17 @@ window.SITE_DATA = {
       ]
     },
     "careers.html": {
-      title: "Careers at Marble Head Maids — Join Our Cleaning Team in North Shore, MA | Marble Head Maids",
-      metaDescription: "Join the Marble Head Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
-      h1: "Join the Marble Head Maids Team",
+      title: "Careers at Marblehead Maids — Join Our Cleaning Team in North Shore, MA | Marblehead Maids",
+      metaDescription: "Join the Marblehead Maids team! We're hiring reliable, detail-oriented cleaners in the North Shore and North Suburbs, MA.",
+      h1: "Join the Marblehead Maids Team",
       heroSubtitle: "We're always looking for reliable, detail-oriented people who take pride in their work. Flexible schedules, competitive pay, and a team that has your back.",
       sections: [
         { heading: "Apply Now", text: "Fill out the form below and we'll be in touch. We're looking for cleaners who show up on time, follow our checklist, and treat every home with respect." }
       ]
     },
     "privacy.html": {
-      title: "Privacy Policy — Marble Head Maids | Marble Head Maids",
-      metaDescription: "Privacy Policy for Marble Head Maids, covering mobile contact information handling, cookies, and tracking technologies.",
+      title: "Privacy Policy — Marblehead Maids | Marblehead Maids",
+      metaDescription: "Privacy Policy for Marblehead Maids, covering mobile contact information handling, cookies, and tracking technologies.",
       h1: "Privacy Policy",
       heroSubtitle: "How we handle your information, mobile contact data, and the cookies we use on our site.",
       sections: [
@@ -311,12 +311,12 @@ window.SITE_DATA = {
       ]
     },
     "terms.html": {
-      title: "Terms and Conditions — Marble Head Maids | Marble Head Maids",
-      metaDescription: "Terms and Conditions for Marble Head Maids, including SMS communications, messaging rates, and opt-out instructions.",
+      title: "Terms and Conditions — Marblehead Maids | Marblehead Maids",
+      metaDescription: "Terms and Conditions for Marblehead Maids, including SMS communications, messaging rates, and opt-out instructions.",
       h1: "Terms and Conditions",
       heroSubtitle: "Please review the terms that govern your use of our services and SMS communications.",
       sections: [
-        { heading: "SMS Communications and Messaging Terms", text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marble Head Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary. Message and data rates may apply. You may opt out at any time by replying STOP." }
+        { heading: "SMS Communications and Messaging Terms", text: "By opting in and providing your mobile phone number, you agree to receive SMS messages from Marblehead Maids related to appointment reminders, service updates, promotions, offers, and other messages about our services. Message frequency may vary. Message and data rates may apply. You may opt out at any time by replying STOP." }
       ]
     }
   }
