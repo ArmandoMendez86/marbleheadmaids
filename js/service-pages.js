@@ -2,14 +2,14 @@ window.SERVICE_PAGES = {
   "apartment-cleaning": {
     "slug": "apartment-cleaning",
     "pageTitle": "Apartment Cleaning North Shore MA — Renter-Friendly Pricing | Marblehead Maids",
-    "metaDescription": "Apartment cleaning across North Shore — from studios to multi-bedroom units. Priced for your unit size, not a 4-bedroom house.",
-    "h1": "Apartment Cleaning in North Shore, MA — Sized for Your Space, Priced for Renters",
-    "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Marblehead Maids offers apartment cleaning across North Shore — from studios to multi-bedroom units and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
+    "metaDescription": "Apartment cleaning across the North Shore -- from studios to multi-bedroom units. Priced for your unit size, not a 4-bedroom house.",
+    "h1": "Apartment Cleaning in North Shore, MA -- Sized for Your Space, Priced for Renters",
+    "heroSubtitle": "You shouldn't have to pay house-cleaning prices for a one-bedroom apartment. Marblehead Maids offers apartment cleaning across the North Shore -- from studios to multi-bedroom units and everything in between. Our pricing scales to your actual unit size, and there's zero long-term commitment required.",
     "intro": {
       "heading": "Apartment Cleaning Built for North Shore Renters",
       "paragraphs": [
-        "North Shore apartments aren't like houses — they're different animals entirely. Smaller spaces that show dirt immediately. Campus-area units with high turnover. You need cleaners who understand all of this.",
-        "At Marblehead Maids, we've cleaned apartments across North Shore — from high-rises downtown to duplexes on Williamson Street, from complexes off Mineral Point to garden-level units near campus. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
+        "North Shore apartments aren't like houses — they're different animals entirely. Smaller spaces that show dirt immediately. You need cleaners who understand all of this.",
+        "At Marblehead Maids, we've cleaned apartments across the North Shore — from high-rises in Lynn to duplexes in Salem, from complexes in Peabody to garden-level units in Beverly. We know the layouts, the challenges, and exactly how to get your apartment sparkling.",
         "We respect that you're renting. We're careful with walls and fixtures, mindful of neighbors, and focused on keeping your space in top condition — whether that's for your own sanity or your landlord's next inspection."
       ]
     },
@@ -123,11 +123,15 @@ window.SERVICE_PAGES = {
         {
           "title": "We Help Protect Your Deposit",
           "description": "Regular cleaning prevents buildup that leads to deductions when you move out. And when you're ready to leave, our move-out cleaning helps you get that deposit back."
+        },
+        {
+          "title": "Satisfaction Guaranteed",
+          "description": "If something isn't right, tell us within 24 hours and we'll come back to fix it — no charge, no questions."
         }
       ]
     },
     "locations": {
-      "heading": "Apartment Cleaning Throughout Madison",
+      "heading": "Apartment Cleaning Throughout the North Shore",
       "intro": "We proudly serve apartments across the North Shore and North Suburbs."
     },
     "faq": {

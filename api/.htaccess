@@ -1,0 +1,18 @@
+Options -Indexes
+
+RewriteEngine On
+
+# Bloquear acceso directo a archivos PHP excepto index.php
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^(.*)$ index.php [QSA,L]
+
+# Bloquear acceso directo a subcarpetas PHP
+<FilesMatch "\.php$">
+    Order allow,deny
+    Deny from all
+</FilesMatch>
+
+<Files "index.php">
+    Order allow,deny
+    Allow from all
+</Files>
